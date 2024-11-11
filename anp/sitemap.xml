@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- Página Principal -->
+    <url>
+        <loc>https://elazarpimentel.com/anp/</loc>
+        <lastmod>2024-04-24</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <!-- Nosotros -->
+    <url>
+        <loc>https://elazarpimentel.com/anp/pages/nosotros.html</loc>
+        <lastmod>2024-04-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Contacto -->
+    <url>
+        <loc>https://elazarpimentel.com/anp/pages/contacto.html</loc>
+        <lastmod>2024-04-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Productos -->
+    <url>
+        <loc>https://elazarpimentel.com/anp/pages/productos.html</loc>
+        <lastmod>2024-04-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+
+    <!-- Servicios -->
+    <url>
+        <loc>https://elazarpimentel.com/anp/pages/servicios.html</loc>
+        <lastmod>2024-04-24</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+</urlset>
