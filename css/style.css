@@ -1,0 +1,93 @@
+/* File: css/style.css */
+
+
+/* Variables de color */
+:root {
+    --gray-darkest: #1a1a1a;
+    --gray-darker: #2e2e2e;
+    --gray-dark: #4f4f4f;
+    --gray: #808080;
+    --gray-light: #bfbfbf;
+    --gray-lighter: #d9d9d9;
+    --gray-lightest: #f2f2f2;
+    --white: #ffffff;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: var(--gray-lightest);
+    color: var(--gray-darkest);
+}
+
+header, footer {
+    background-color: var(--gray-darker);
+    color: var(--white);
+    text-align: center;
+    padding: 1rem;
+}
+
+header a, footer a {
+    color: var(--white);
+    text-decoration: none;
+}
+
+main {
+    max-width: 800px;
+    margin: 2rem auto;
+    padding: 0 1rem;
+}
+
+h1 {
+    margin: 0;
+}
+
+h2 {
+    border-bottom: 1px solid var(--gray-light);
+    padding-bottom: 0.5rem;
+    color: var(--gray-darker);
+}
+
+section {
+    margin-bottom: 2rem;
+}
+
+.profile {
+    text-align: center;
+}
+
+.profile img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 50%;
+    border: 3px solid var(--gray-darker);
+    margin-bottom: 1rem;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 0.5rem;
+}
+
+strong {
+    color: var(--gray-dark);
+}
+
+p {
+    color: var(--gray-dark);
+}
+
+a {
+    color: var(--gray-darker);
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
