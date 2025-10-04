@@ -271,27 +271,25 @@ header {
   justify-content: space-between;
   align-items: center;
   width: 100%;
-  position: relative;
+  gap: var(--space-md);
 }
 
 #logo-left {
   flex: 0 0 auto;
-  margin-left: var(--space-md);
 }
 
 .logo-text {
   font-family: var(--font-family-mono);
-  font-size: var(--font-size-3xl);
+  font-size: var(--font-size-2xl);
   font-weight: bold;
   letter-spacing: 0.1em;
   margin: 0;
   color: var(--color-text-primary);
 }
 
-#text-right {
+#text-center {
   flex: 1;
   text-align: right;
-  margin-right: 4rem; /* Add space for the language switcher */
 }
 
 .title-01 {
@@ -306,9 +304,7 @@ header {
 }
 
 .language-switcher {
-  position: absolute;
-  top: var(--space-md);
-  right: var(--space-md);
+  flex: 0 0 auto;
 }
 
 .lang-button {
@@ -338,11 +334,6 @@ header {
 .lang-button:active {
   transform: translateY(0);
   transition: transform 0.1s ease;
-}
-
-/* Enhanced language switcher animations */
-.language-switcher {
-  animation: fadeInUp 0.8s ease-out 0.7s both;
 }
 
 /* Main content */
@@ -694,13 +685,8 @@ a:not(.contact-link):not(.lang-button):not(.skip-link):hover {
     margin-left: 0;
   }
   
-  #text-right {
+  #text-center {
     margin-right: 0; /* No margin needed when title is hidden */
-  }
-  
-  .language-switcher {
-    top: var(--space-xs);
-    right: var(--space-xs);
   }
 }
 
@@ -713,11 +699,7 @@ a:not(.contact-link):not(.lang-button):not(.skip-link):hover {
   .title-01 {
     font-size: var(--font-size-sm);
   }
-  
-  #text-right {
-    margin-right: 3rem; /* Reduce space for smaller screens */
-  }
-  
+
   .contact-links {
     flex-direction: column;
     align-items: center;
@@ -736,12 +718,7 @@ a:not(.contact-link):not(.lang-button):not(.skip-link):hover {
   .contact-link i {
     font-size: var(--font-size-xl);
   }
-  
-  .language-switcher {
-    top: var(--space-sm);
-    right: var(--space-sm);
-  }
-  
+
   /* Better spacing for mobile reading */
   main p {
     margin-bottom: var(--space-md);

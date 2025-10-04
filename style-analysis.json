@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-04T03:35:56.891Z",
+  "timestamp": "2025-10-04T03:48:48.837Z",
   "url": "http://localhost:8000/es/",
   "viewportInfo": {
     "scrollY": 0,
@@ -2255,16 +2255,16 @@
         "color": "rgb(224, 224, 224)",
         "backgroundColor": "rgba(0, 0, 0, 0)",
         "display": "flex",
-        "position": "relative",
-        "top": "0px",
-        "right": "0px",
-        "bottom": "0px",
-        "left": "0px",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
         "width": "685.594px",
         "height": "48px",
         "flex": "0 1 auto",
         "flexDirection": "row",
-        "gap": "normal",
+        "gap": "16px",
         "justifyContent": "space-between",
         "alignItems": "center"
       },
@@ -2297,7 +2297,8 @@
             "justify-content": "space-between",
             "align-items": "center",
             "width": "100%",
-            "position": "relative"
+            "row-gap": "",
+            "column-gap": ""
           },
           "href": "http://localhost:8000/css/styles.css"
         }
@@ -2309,16 +2310,16 @@
       "text": "Elazar Pimentel",
       "position": {
         "top": 22,
-        "left": 73.203125,
+        "left": 57.203125,
         "width": 336.015625,
         "height": 40
       },
       "computedStyles": {
-        "margin": "0px 0px 0px 16px",
+        "margin": "0px",
         "marginTop": "0px",
         "marginRight": "0px",
         "marginBottom": "0px",
-        "marginLeft": "16px",
+        "marginLeft": "0px",
         "padding": "0px",
         "paddingTop": "0px",
         "paddingRight": "0px",
@@ -2376,8 +2377,7 @@
           "styles": {
             "flex-grow": "0",
             "flex-shrink": "0",
-            "flex-basis": "auto",
-            "margin-left": "var(--space-md)"
+            "flex-basis": "auto"
           },
           "href": "http://localhost:8000/css/styles.css"
         }
@@ -2389,7 +2389,7 @@
       "text": "Elazar Pimentel",
       "position": {
         "top": 22,
-        "left": 73.203125,
+        "left": 57.203125,
         "width": 336.015625,
         "height": 40
       },
@@ -2492,19 +2492,19 @@
       ]
     },
     {
-      "selector": "div#text-right",
+      "selector": "div#text-center",
       "tag": "div",
       "text": "Program, Project and Digital Product Management",
       "position": {
         "top": 18,
         "left": 409.21875,
-        "width": 269.578125,
+        "width": 262.25,
         "height": 48
       },
       "computedStyles": {
-        "margin": "0px 64px 0px 0px",
+        "margin": "0px",
         "marginTop": "0px",
-        "marginRight": "64px",
+        "marginRight": "0px",
         "marginBottom": "0px",
         "marginLeft": "0px",
         "padding": "0px",
@@ -2529,7 +2529,7 @@
         "right": "auto",
         "bottom": "auto",
         "left": "auto",
-        "width": "269.578px",
+        "width": "262.25px",
         "height": "48px",
         "flex": "1 1 0%",
         "flexDirection": "row",
@@ -2560,13 +2560,12 @@
           "href": "http://localhost:8000/css/styles.css"
         },
         {
-          "selector": "#text-right",
+          "selector": "#text-center",
           "styles": {
             "flex-grow": "1",
             "flex-shrink": "1",
             "flex-basis": "0%",
-            "text-align": "right",
-            "margin-right": "4rem"
+            "text-align": "right"
           },
           "href": "http://localhost:8000/css/styles.css"
         }
@@ -2579,7 +2578,7 @@
       "position": {
         "top": 18,
         "left": 409.21875,
-        "width": 269.578125,
+        "width": 262.25,
         "height": 48
       },
       "computedStyles": {
@@ -2610,7 +2609,7 @@
         "right": "auto",
         "bottom": "auto",
         "left": "auto",
-        "width": "269.578px",
+        "width": "262.25px",
         "height": "48px",
         "flex": "0 1 auto",
         "flexDirection": "row",
@@ -2675,8 +2674,8 @@
       "tag": "nav",
       "text": "EN",
       "position": {
-        "top": 46,
-        "left": 679.46875,
+        "top": 41.5,
+        "left": 687.46875,
         "width": 55.328125,
         "height": 41
       },
@@ -2703,14 +2702,14 @@
         "color": "rgb(224, 224, 224)",
         "backgroundColor": "rgba(0, 0, 0, 0)",
         "display": "block",
-        "position": "absolute",
-        "top": "16px",
-        "right": "16px",
-        "bottom": "7px",
-        "left": "630.266px",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
         "width": "55.3281px",
         "height": "41px",
-        "flex": "0 1 auto",
+        "flex": "0 0 auto",
         "flexDirection": "row",
         "gap": "normal",
         "justifyContent": "normal",
@@ -2741,9 +2740,9 @@
         {
           "selector": ".language-switcher",
           "styles": {
-            "position": "absolute",
-            "top": "var(--space-md)",
-            "right": "var(--space-md)"
+            "flex-grow": "0",
+            "flex-shrink": "0",
+            "flex-basis": "auto"
           },
           "href": "http://localhost:8000/css/styles.css"
         },
@@ -2771,8 +2770,8 @@
       "tag": "a",
       "text": "EN",
       "position": {
-        "top": 46,
-        "left": 679.46875,
+        "top": 41.5,
+        "left": 687.46875,
         "width": 55.328125,
         "height": 41
       },
@@ -2924,7 +2923,7 @@
         "lineHeight": "24px",
         "color": "rgb(224, 224, 224)",
         "backgroundColor": "rgba(0, 0, 0, 0)",
-        "display": "block",
+        "display": "flex",
         "position": "relative",
         "top": "0px",
         "right": "0px",
@@ -2933,7 +2932,7 @@
         "width": "705.594px",
         "height": "427px",
         "flex": "1 1 0%",
-        "flexDirection": "row",
+        "flexDirection": "column",
         "gap": "normal",
         "justifyContent": "normal",
         "alignItems": "normal"
@@ -3014,7 +3013,9 @@
             "padding-left": "",
             "flex-grow": "1",
             "flex-shrink": "1",
-            "flex-basis": "0%"
+            "flex-basis": "0%",
+            "display": "flex",
+            "flex-direction": "column"
           },
           "href": "http://localhost:8000/css/styles.css"
         },
@@ -3509,16 +3510,16 @@
       "tag": "section",
       "text": "Contacto\n            \n                \n           ",
       "position": {
-        "top": 390,
+        "top": 397.921875,
         "left": 81.203125,
         "width": 637.59375,
-        "height": 81.984375
+        "height": 107.078125
       },
       "computedStyles": {
-        "margin": "0px 0px 32px",
-        "marginTop": "0px",
+        "margin": "23.9219px 0px 0px",
+        "marginTop": "23.9219px",
         "marginRight": "0px",
-        "marginBottom": "32px",
+        "marginBottom": "0px",
         "marginLeft": "0px",
         "padding": "0px",
         "paddingTop": "0px",
@@ -3543,7 +3544,7 @@
         "bottom": "auto",
         "left": "auto",
         "width": "637.594px",
-        "height": "81.9844px",
+        "height": "107.078px",
         "flex": "0 1 auto",
         "flexDirection": "row",
         "gap": "normal",
@@ -3575,8 +3576,7 @@
         {
           "selector": ".contact-section",
           "styles": {
-            "margin-top": "auto",
-            "margin-bottom": "var(--space-xl)"
+            "margin-top": "auto"
           },
           "href": "http://localhost:8000/css/styles.css"
         },
@@ -3620,7 +3620,7 @@
       "tag": "h2",
       "text": "Contacto",
       "position": {
-        "top": 389,
+        "top": 396.921875,
         "left": 80.203125,
         "width": 1,
         "height": 1
@@ -3651,7 +3651,7 @@
         "position": "absolute",
         "top": "0px",
         "right": "638.594px",
-        "bottom": "82.9844px",
+        "bottom": "108.078px",
         "left": "0px",
         "width": "1px",
         "height": "1px",
@@ -3739,10 +3739,10 @@
       "tag": "div",
       "text": "Email\n                \n                \n          ",
       "position": {
-        "top": 390,
+        "top": 413.921875,
         "left": 81.203125,
         "width": 637.59375,
-        "height": 81.984375
+        "height": 75.078125
       },
       "computedStyles": {
         "margin": "16px 0px",
@@ -3773,7 +3773,7 @@
         "bottom": "auto",
         "left": "auto",
         "width": "637.594px",
-        "height": "81.9844px",
+        "height": "75.0781px",
         "flex": "0 1 auto",
         "flexDirection": "row",
         "gap": "24px",
@@ -3823,10 +3823,10 @@
       "tag": "a",
       "text": "Email",
       "position": {
-        "top": 389.9997253417969,
-        "left": 291.9996643066406,
-        "width": 96.00064086914062,
-        "height": 81.98492431640625
+        "top": 413.9208679199219,
+        "left": 291.9986877441406,
+        "width": 96.00259399414062,
+        "height": 75.08016967773438
       },
       "computedStyles": {
         "margin": "0px",
@@ -3857,7 +3857,7 @@
         "bottom": "auto",
         "left": "auto",
         "width": "96px",
-        "height": "81.9844px",
+        "height": "75.0781px",
         "flex": "0 1 auto",
         "flexDirection": "column",
         "gap": "8px",
@@ -3963,10 +3963,10 @@
       "tag": "i",
       "text": "",
       "position": {
-        "top": 399.9997863769531,
-        "left": 330.65618896484375,
-        "width": 18.6719970703125,
-        "height": 35.984619140625
+        "top": 423.921142578125,
+        "left": 330.656005859375,
+        "width": 18.67236328125,
+        "height": 29.078887939453125
       },
       "computedStyles": {
         "margin": "0px",
@@ -3986,8 +3986,8 @@
         "borderLeft": "0px none rgb(224, 224, 224)",
         "fontSize": "24px",
         "fontFamily": "\"Font Awesome 6 Free\"",
-        "fontWeight": "400",
-        "lineHeight": "35.9978px",
+        "fontWeight": "687.75",
+        "lineHeight": "29.0899px",
         "color": "rgb(224, 224, 224)",
         "backgroundColor": "rgba(0, 0, 0, 0)",
         "display": "block",
@@ -3997,7 +3997,7 @@
         "bottom": "auto",
         "left": "auto",
         "width": "18.6719px",
-        "height": "35.9844px",
+        "height": "29.0781px",
         "flex": "0 1 auto",
         "flexDirection": "row",
         "gap": "normal",
@@ -4051,10 +4051,10 @@
       "tag": "span",
       "text": "Email",
       "position": {
-        "top": 443.9844665527344,
-        "left": 323.3436279296875,
-        "width": 33.297119140625,
-        "height": 18.0001220703125
+        "top": 461.000244140625,
+        "left": 323.3432922363281,
+        "width": 33.297760009765625,
+        "height": 18.00048828125
       },
       "computedStyles": {
         "margin": "0px",
@@ -4141,10 +4141,10 @@
       "tag": "a",
       "text": "WhatsApp",
       "position": {
-        "top": 389.9997253417969,
-        "left": 411.9996643066406,
-        "width": 96.00064086914062,
-        "height": 81.98492431640625
+        "top": 413.9208679199219,
+        "left": 411.9986877441406,
+        "width": 96.00259399414062,
+        "height": 75.08016967773438
       },
       "computedStyles": {
         "margin": "0px",
@@ -4175,7 +4175,7 @@
         "bottom": "auto",
         "left": "auto",
         "width": "96px",
-        "height": "81.9844px",
+        "height": "75.0781px",
         "flex": "0 1 auto",
         "flexDirection": "column",
         "gap": "8px",
@@ -4281,10 +4281,10 @@
       "tag": "i",
       "text": "",
       "position": {
-        "top": 399.9997863769531,
-        "left": 450.65618896484375,
-        "width": 18.6719970703125,
-        "height": 35.984619140625
+        "top": 423.921142578125,
+        "left": 450.6559753417969,
+        "width": 18.672393798828125,
+        "height": 29.078887939453125
       },
       "computedStyles": {
         "margin": "0px",
@@ -4305,7 +4305,7 @@
         "fontSize": "24px",
         "fontFamily": "\"Font Awesome 6 Brands\"",
         "fontWeight": "400",
-        "lineHeight": "35.9978px",
+        "lineHeight": "29.0899px",
         "color": "rgb(224, 224, 224)",
         "backgroundColor": "rgba(0, 0, 0, 0)",
         "display": "block",
@@ -4315,7 +4315,7 @@
         "bottom": "auto",
         "left": "auto",
         "width": "18.6719px",
-        "height": "35.9844px",
+        "height": "29.0781px",
         "flex": "0 1 auto",
         "flexDirection": "row",
         "gap": "normal",
@@ -4369,10 +4369,10 @@
       "tag": "span",
       "text": "WhatsApp",
       "position": {
-        "top": 443.9844665527344,
-        "left": 429.3747863769531,
-        "width": 61.234771728515625,
-        "height": 18.0001220703125
+        "top": 461.000244140625,
+        "left": 429.3741455078125,
+        "width": 61.236053466796875,
+        "height": 18.00048828125
       },
       "computedStyles": {
         "margin": "0px",
