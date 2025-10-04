@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-04T03:11:04.238Z",
+  "timestamp": "2025-10-04T03:35:56.891Z",
   "url": "http://localhost:8000/es/",
   "viewportInfo": {
     "scrollY": 0,
@@ -8,7 +8,7 @@
     "htmlMargin": "0px",
     "bodyMargin": "0px"
   },
-  "totalElements": 54,
+  "totalElements": 52,
   "elements": [
     {
       "selector": "html",
@@ -18,7 +18,7 @@
         "top": 0,
         "left": 0,
         "width": 800,
-        "height": 648
+        "height": 600
       },
       "computedStyles": {
         "margin": "0px",
@@ -49,7 +49,7 @@
         "bottom": "auto",
         "left": "auto",
         "width": "800px",
-        "height": "648px",
+        "height": "600px",
         "flex": "0 1 auto",
         "flexDirection": "row",
         "gap": "normal",
@@ -1858,7 +1858,7 @@
         "top": 0,
         "left": 0,
         "width": 800,
-        "height": 648
+        "height": 600
       },
       "computedStyles": {
         "margin": "0px",
@@ -1866,8 +1866,8 @@
         "marginRight": "0px",
         "marginBottom": "0px",
         "marginLeft": "0px",
-        "padding": "0px 8px 8px",
-        "paddingTop": "0px",
+        "padding": "8px",
+        "paddingTop": "8px",
         "paddingRight": "8px",
         "paddingBottom": "8px",
         "paddingLeft": "8px",
@@ -1889,7 +1889,7 @@
         "bottom": "auto",
         "left": "auto",
         "width": "800px",
-        "height": "648px",
+        "height": "600px",
         "flex": "0 1 auto",
         "flexDirection": "column",
         "gap": "0px",
@@ -1995,7 +1995,7 @@
         "position": "absolute",
         "top": "-600px",
         "right": "562.844px",
-        "bottom": "1208px",
+        "bottom": "1160px",
         "left": "16px",
         "width": "221.156px",
         "height": "40px",
@@ -2066,7 +2066,7 @@
           "href": "http://localhost:8000/css/styles.css"
         },
         {
-          "selector": "a, button, input, textarea",
+          "selector": "a",
           "styles": {
             "transition-property": "",
             "transition-duration": "",
@@ -2083,7 +2083,7 @@
       "tag": "header",
       "text": "Elazar Pimentel\n            \n            \n        ",
       "position": {
-        "top": 0,
+        "top": 8,
         "left": 47.203125,
         "width": 705.59375,
         "height": 68
@@ -2227,7 +2227,7 @@
       "tag": "div",
       "text": "Elazar Pimentel\n            \n            \n        ",
       "position": {
-        "top": 10,
+        "top": 18,
         "left": 57.203125,
         "width": 685.59375,
         "height": 48
@@ -2308,7 +2308,7 @@
       "tag": "div",
       "text": "Elazar Pimentel",
       "position": {
-        "top": 14,
+        "top": 22,
         "left": 73.203125,
         "width": 336.015625,
         "height": 40
@@ -2388,7 +2388,7 @@
       "tag": "h2",
       "text": "Elazar Pimentel",
       "position": {
-        "top": 14,
+        "top": 22,
         "left": 73.203125,
         "width": 336.015625,
         "height": 40
@@ -2496,7 +2496,7 @@
       "tag": "div",
       "text": "Program, Project and Digital Product Management",
       "position": {
-        "top": 10,
+        "top": 18,
         "left": 409.21875,
         "width": 269.578125,
         "height": 48
@@ -2577,7 +2577,7 @@
       "tag": "p",
       "text": "Program, Project and Digital Product Management",
       "position": {
-        "top": 10,
+        "top": 18,
         "left": 409.21875,
         "width": 269.578125,
         "height": 48
@@ -2675,7 +2675,7 @@
       "tag": "nav",
       "text": "EN",
       "position": {
-        "top": 38,
+        "top": 46,
         "left": 679.46875,
         "width": 55.328125,
         "height": 41
@@ -2771,7 +2771,7 @@
       "tag": "a",
       "text": "EN",
       "position": {
-        "top": 38,
+        "top": 46,
         "left": 679.46875,
         "width": 55.328125,
         "height": 41
@@ -2880,7 +2880,7 @@
           "href": "http://localhost:8000/css/styles.css"
         },
         {
-          "selector": "a, button, input, textarea",
+          "selector": "a",
           "styles": {
             "transition-property": "",
             "transition-duration": "",
@@ -2897,10 +2897,10 @@
       "tag": "main",
       "text": "Gestión de Programas, Proyectos y Productos Digita",
       "position": {
-        "top": 104,
+        "top": 112,
         "left": 47.203125,
         "width": 705.59375,
-        "height": 422
+        "height": 427
       },
       "computedStyles": {
         "margin": "16px 39.2031px 0px",
@@ -2931,7 +2931,7 @@
         "bottom": "0px",
         "left": "0px",
         "width": "705.594px",
-        "height": "422px",
+        "height": "427px",
         "flex": "1 1 0%",
         "flexDirection": "row",
         "gap": "normal",
@@ -3063,7 +3063,7 @@
       "tag": "h1",
       "text": "Gestión de Programas, Proyectos y Productos Digita",
       "position": {
-        "top": 138,
+        "top": 146,
         "left": 81.203125,
         "width": 637.59375,
         "height": 60
@@ -3176,7 +3176,7 @@
       "tag": "p",
       "text": "Más de 20 años de experiencia en roles ejecutivos ",
       "position": {
-        "top": 198,
+        "top": 206,
         "left": 81.203125,
         "width": 637.59375,
         "height": 24
@@ -3287,7 +3287,7 @@
       "tag": "p",
       "text": "Administro proyectos aplicando PMBOK, SAFe y Water",
       "position": {
-        "top": 222,
+        "top": 230,
         "left": 81.203125,
         "width": 637.59375,
         "height": 72
@@ -3398,7 +3398,7 @@
       "tag": "p",
       "text": "En Productos Digitales actúo como Product Owner ex",
       "position": {
-        "top": 294,
+        "top": 302,
         "left": 81.203125,
         "width": 637.59375,
         "height": 72
@@ -3509,14 +3509,14 @@
       "tag": "section",
       "text": "Contacto\n            \n                \n           ",
       "position": {
-        "top": 398,
+        "top": 390,
         "left": 81.203125,
         "width": 637.59375,
-        "height": 62
+        "height": 81.984375
       },
       "computedStyles": {
-        "margin": "32px 0px",
-        "marginTop": "32px",
+        "margin": "0px 0px 32px",
+        "marginTop": "0px",
         "marginRight": "0px",
         "marginBottom": "32px",
         "marginLeft": "0px",
@@ -3543,7 +3543,7 @@
         "bottom": "auto",
         "left": "auto",
         "width": "637.594px",
-        "height": "62px",
+        "height": "81.9844px",
         "flex": "0 1 auto",
         "flexDirection": "row",
         "gap": "normal",
@@ -3575,10 +3575,8 @@
         {
           "selector": ".contact-section",
           "styles": {
-            "margin-top": "",
-            "margin-right": "",
-            "margin-bottom": "",
-            "margin-left": ""
+            "margin-top": "auto",
+            "margin-bottom": "var(--space-xl)"
           },
           "href": "http://localhost:8000/css/styles.css"
         },
@@ -3622,7 +3620,7 @@
       "tag": "h2",
       "text": "Contacto",
       "position": {
-        "top": 397,
+        "top": 389,
         "left": 80.203125,
         "width": 1,
         "height": 1
@@ -3653,7 +3651,7 @@
         "position": "absolute",
         "top": "0px",
         "right": "638.594px",
-        "bottom": "63px",
+        "bottom": "82.9844px",
         "left": "0px",
         "width": "1px",
         "height": "1px",
@@ -3741,10 +3739,10 @@
       "tag": "div",
       "text": "Email\n                \n                \n          ",
       "position": {
-        "top": 398,
+        "top": 390,
         "left": 81.203125,
         "width": 637.59375,
-        "height": 62
+        "height": 81.984375
       },
       "computedStyles": {
         "margin": "16px 0px",
@@ -3775,7 +3773,7 @@
         "bottom": "auto",
         "left": "auto",
         "width": "637.594px",
-        "height": "62px",
+        "height": "81.9844px",
         "flex": "0 1 auto",
         "flexDirection": "row",
         "gap": "24px",
@@ -3825,10 +3823,10 @@
       "tag": "a",
       "text": "Email",
       "position": {
-        "top": 397.9997863769531,
-        "left": 291.3746643066406,
+        "top": 389.9997253417969,
+        "left": 291.9996643066406,
         "width": 96.00064086914062,
-        "height": 62.00042724609375
+        "height": 81.98492431640625
       },
       "computedStyles": {
         "margin": "0px",
@@ -3836,11 +3834,11 @@
         "marginRight": "0px",
         "marginBottom": "0px",
         "marginLeft": "0px",
-        "padding": "16px",
-        "paddingTop": "16px",
-        "paddingRight": "16px",
-        "paddingBottom": "16px",
-        "paddingLeft": "16px",
+        "padding": "8px",
+        "paddingTop": "8px",
+        "paddingRight": "8px",
+        "paddingBottom": "8px",
+        "paddingLeft": "8px",
         "border": "2px solid rgb(64, 64, 64)",
         "borderTop": "2px solid rgb(64, 64, 64)",
         "borderRight": "2px solid rgb(64, 64, 64)",
@@ -3859,7 +3857,7 @@
         "bottom": "auto",
         "left": "auto",
         "width": "96px",
-        "height": "62px",
+        "height": "81.9844px",
         "flex": "0 1 auto",
         "flexDirection": "column",
         "gap": "8px",
@@ -3948,7 +3946,7 @@
           "href": "http://localhost:8000/css/styles.css"
         },
         {
-          "selector": "a, button, input, textarea",
+          "selector": "a",
           "styles": {
             "transition-property": "",
             "transition-duration": "",
@@ -3965,10 +3963,10 @@
       "tag": "i",
       "text": "",
       "position": {
-        "top": 415.9999084472656,
-        "left": 339.375,
-        "width": 0,
-        "height": 0
+        "top": 399.9997863769531,
+        "left": 330.65618896484375,
+        "width": 18.6719970703125,
+        "height": 35.984619140625
       },
       "computedStyles": {
         "margin": "0px",
@@ -3987,9 +3985,9 @@
         "borderBottom": "0px none rgb(224, 224, 224)",
         "borderLeft": "0px none rgb(224, 224, 224)",
         "fontSize": "24px",
-        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
+        "fontFamily": "\"Font Awesome 6 Free\"",
         "fontWeight": "400",
-        "lineHeight": "36px",
+        "lineHeight": "35.9978px",
         "color": "rgb(224, 224, 224)",
         "backgroundColor": "rgba(0, 0, 0, 0)",
         "display": "block",
@@ -3998,8 +3996,8 @@
         "right": "auto",
         "bottom": "auto",
         "left": "auto",
-        "width": "0px",
-        "height": "0px",
+        "width": "18.6719px",
+        "height": "35.9844px",
         "flex": "0 1 auto",
         "flexDirection": "row",
         "gap": "normal",
@@ -4053,8 +4051,8 @@
       "tag": "span",
       "text": "Email",
       "position": {
-        "top": 423.9999694824219,
-        "left": 322.7186279296875,
+        "top": 443.9844665527344,
+        "left": 323.3436279296875,
         "width": 33.297119140625,
         "height": 18.0001220703125
       },
@@ -4143,10 +4141,10 @@
       "tag": "a",
       "text": "WhatsApp",
       "position": {
-        "top": 397.9997863769531,
-        "left": 411.3746643066406,
-        "width": 97.23504638671875,
-        "height": 62.00042724609375
+        "top": 389.9997253417969,
+        "left": 411.9996643066406,
+        "width": 96.00064086914062,
+        "height": 81.98492431640625
       },
       "computedStyles": {
         "margin": "0px",
@@ -4154,11 +4152,11 @@
         "marginRight": "0px",
         "marginBottom": "0px",
         "marginLeft": "0px",
-        "padding": "16px",
-        "paddingTop": "16px",
-        "paddingRight": "16px",
-        "paddingBottom": "16px",
-        "paddingLeft": "16px",
+        "padding": "8px",
+        "paddingTop": "8px",
+        "paddingRight": "8px",
+        "paddingBottom": "8px",
+        "paddingLeft": "8px",
         "border": "2px solid rgb(64, 64, 64)",
         "borderTop": "2px solid rgb(64, 64, 64)",
         "borderRight": "2px solid rgb(64, 64, 64)",
@@ -4176,8 +4174,8 @@
         "right": "auto",
         "bottom": "auto",
         "left": "auto",
-        "width": "97.2344px",
-        "height": "62px",
+        "width": "96px",
+        "height": "81.9844px",
         "flex": "0 1 auto",
         "flexDirection": "column",
         "gap": "8px",
@@ -4266,7 +4264,7 @@
           "href": "http://localhost:8000/css/styles.css"
         },
         {
-          "selector": "a, button, input, textarea",
+          "selector": "a",
           "styles": {
             "transition-property": "",
             "transition-duration": "",
@@ -4283,10 +4281,10 @@
       "tag": "i",
       "text": "",
       "position": {
-        "top": 415.9999084472656,
-        "left": 459.984375,
-        "width": 0,
-        "height": 0
+        "top": 399.9997863769531,
+        "left": 450.65618896484375,
+        "width": 18.6719970703125,
+        "height": 35.984619140625
       },
       "computedStyles": {
         "margin": "0px",
@@ -4305,9 +4303,9 @@
         "borderBottom": "0px none rgb(224, 224, 224)",
         "borderLeft": "0px none rgb(224, 224, 224)",
         "fontSize": "24px",
-        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
+        "fontFamily": "\"Font Awesome 6 Brands\"",
         "fontWeight": "400",
-        "lineHeight": "36px",
+        "lineHeight": "35.9978px",
         "color": "rgb(224, 224, 224)",
         "backgroundColor": "rgba(0, 0, 0, 0)",
         "display": "block",
@@ -4316,8 +4314,8 @@
         "right": "auto",
         "bottom": "auto",
         "left": "auto",
-        "width": "0px",
-        "height": "0px",
+        "width": "18.6719px",
+        "height": "35.9844px",
         "flex": "0 1 auto",
         "flexDirection": "row",
         "gap": "normal",
@@ -4371,9 +4369,9 @@
       "tag": "span",
       "text": "WhatsApp",
       "position": {
-        "top": 423.9999694824219,
+        "top": 443.9844665527344,
         "left": 429.3747863769531,
-        "width": 61.23480224609375,
+        "width": 61.234771728515625,
         "height": 18.0001220703125
       },
       "computedStyles": {
@@ -4461,10 +4459,10 @@
       "tag": "footer",
       "text": "© 2024 Elazar Pimentel. Todos los derechos reserva",
       "position": {
-        "top": 542,
+        "top": 555,
         "left": 47.203125,
         "width": 705.59375,
-        "height": 118
+        "height": 57
       },
       "computedStyles": {
         "margin": "16px 39.2031px 0px",
@@ -4495,7 +4493,7 @@
         "bottom": "0px",
         "left": "0px",
         "width": "705.594px",
-        "height": "118px",
+        "height": "57px",
         "flex": "0 0 auto",
         "flexDirection": "column",
         "gap": "8px",
@@ -4633,7 +4631,7 @@
       "tag": "p",
       "text": "© 2024 Elazar Pimentel. Todos los derechos reserva",
       "position": {
-        "top": 560,
+        "top": 573,
         "left": 202.796875,
         "width": 394.390625,
         "height": 21
@@ -4667,162 +4665,6 @@
         "bottom": "auto",
         "left": "auto",
         "width": "394.391px",
-        "height": "21px",
-        "flex": "0 1 auto",
-        "flexDirection": "row",
-        "gap": "normal",
-        "justifyContent": "normal",
-        "alignItems": "normal"
-      },
-      "matchedCSSRules": [
-        {
-          "selector": "*, ::before, ::after",
-          "styles": {
-            "box-sizing": "border-box"
-          },
-          "href": "http://localhost:8000/css/styles.css"
-        },
-        {
-          "selector": "*",
-          "styles": {
-            "margin-top": "0px",
-            "margin-right": "0px",
-            "margin-bottom": "0px",
-            "margin-left": "0px",
-            "padding-top": "0px",
-            "padding-right": "0px",
-            "padding-bottom": "0px",
-            "padding-left": "0px"
-          },
-          "href": "http://localhost:8000/css/styles.css"
-        },
-        {
-          "selector": "p",
-          "styles": {
-            "line-height": "var(--line-height-normal)",
-            "color": "var(--color-text-secondary)"
-          },
-          "href": "http://localhost:8000/css/styles.css"
-        },
-        {
-          "selector": "footer p",
-          "styles": {
-            "font-size": "var(--font-size-sm)",
-            "color": "var(--color-text-muted)"
-          },
-          "href": "http://localhost:8000/css/styles.css"
-        }
-      ]
-    },
-    {
-      "selector": "br",
-      "tag": "br",
-      "text": "",
-      "position": {
-        "top": 591,
-        "left": 400,
-        "width": 0,
-        "height": 19
-      },
-      "computedStyles": {
-        "margin": "0px",
-        "marginTop": "0px",
-        "marginRight": "0px",
-        "marginBottom": "0px",
-        "marginLeft": "0px",
-        "padding": "0px",
-        "paddingTop": "0px",
-        "paddingRight": "0px",
-        "paddingBottom": "0px",
-        "paddingLeft": "0px",
-        "border": "0px none rgb(224, 224, 224)",
-        "borderTop": "0px none rgb(224, 224, 224)",
-        "borderRight": "0px none rgb(224, 224, 224)",
-        "borderBottom": "0px none rgb(224, 224, 224)",
-        "borderLeft": "0px none rgb(224, 224, 224)",
-        "fontSize": "16px",
-        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
-        "fontWeight": "400",
-        "lineHeight": "24px",
-        "color": "rgb(224, 224, 224)",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "display": "block",
-        "position": "static",
-        "top": "auto",
-        "right": "auto",
-        "bottom": "auto",
-        "left": "auto",
-        "width": "auto",
-        "height": "auto",
-        "flex": "0 1 auto",
-        "flexDirection": "row",
-        "gap": "normal",
-        "justifyContent": "normal",
-        "alignItems": "normal"
-      },
-      "matchedCSSRules": [
-        {
-          "selector": "*, ::before, ::after",
-          "styles": {
-            "box-sizing": "border-box"
-          },
-          "href": "http://localhost:8000/css/styles.css"
-        },
-        {
-          "selector": "*",
-          "styles": {
-            "margin-top": "0px",
-            "margin-right": "0px",
-            "margin-bottom": "0px",
-            "margin-left": "0px",
-            "padding-top": "0px",
-            "padding-right": "0px",
-            "padding-bottom": "0px",
-            "padding-left": "0px"
-          },
-          "href": "http://localhost:8000/css/styles.css"
-        }
-      ]
-    },
-    {
-      "selector": "p",
-      "tag": "p",
-      "text": "Thank you, Dr. Marie Maynard Daly & Engineer Mary ",
-      "position": {
-        "top": 621,
-        "left": 185.078125,
-        "width": 429.828125,
-        "height": 21
-      },
-      "computedStyles": {
-        "margin": "0px",
-        "marginTop": "0px",
-        "marginRight": "0px",
-        "marginBottom": "0px",
-        "marginLeft": "0px",
-        "padding": "0px",
-        "paddingTop": "0px",
-        "paddingRight": "0px",
-        "paddingBottom": "0px",
-        "paddingLeft": "0px",
-        "border": "0px none rgb(160, 160, 160)",
-        "borderTop": "0px none rgb(160, 160, 160)",
-        "borderRight": "0px none rgb(160, 160, 160)",
-        "borderBottom": "0px none rgb(160, 160, 160)",
-        "borderLeft": "0px none rgb(160, 160, 160)",
-        "fontSize": "14px",
-        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
-        "fontWeight": "400",
-        "lineHeight": "21px",
-        "color": "rgb(160, 160, 160)",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "display": "block",
-        "position": "static",
-        "top": "auto",
-        "right": "auto",
-        "bottom": "auto",
-        "left": "auto",
-        "width": "429.828px",
         "height": "21px",
         "flex": "0 1 auto",
         "flexDirection": "row",
