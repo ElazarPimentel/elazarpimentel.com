@@ -1,148 +1,16 @@
-Yes! There are several tools you can use to analyze your HTML and generate files that an LLM can parse to trace font sizes and colors. Here are the best approaches:
+main
+section 1 aligned top
+  content aligned right
+    nav
 
-## Browser DevTools + Automation
 
-**1. Chrome DevTools Protocol**
-```bash
-# Install chrome-remote-interface
-npm install -g chrome-remote-interface
-
-# Run Chrome with debugging
-google-chrome --remote-debugging-port=9222 --headless
-```
-
-**2. Puppeteer Script** (Most practical)
-```javascript
-const puppeteer = require('puppeteer');
-const fs = require('fs');
-
-async function analyzeStyles() {
-  const browser = await puppeteer.launch();
-  const page = await browser.newPage();
-  await page.goto('http://localhost:9000');
+section 2 aligned middle vertically
+  content aligned left
+            <h1>Gestión de Programas, Proyectos y Productos Digitales</h1>
+            etc
+            
+section 3 aligned bottom
+  content aligned center horizonally
+    contact boxes
   
-  // Extract computed styles for all elements
-  const styleData = await page.evaluate(() => {
-    const elements = document.querySelectorAll('*');
-    const results = [];
-    
-    elements.forEach((el, index) => {
-      const computed = window.getComputedStyle(el);
-      const selector = el.tagName.toLowerCase() + 
-        (el.id ? `#${el.id}` : '') + 
-        (el.className ? `.${el.className.replace(/\s+/g, '.')}` : '');
-      
-      results.push({
-        selector,
-        text: el.textContent?.trim().substring(0, 50),
-        fontSize: computed.fontSize,
-        fontFamily: computed.fontFamily,
-        color: computed.color,
-        backgroundColor: computed.backgroundColor,
-        // Get the actual CSS rules that set these properties
-        cssRules: getCSSRules(el, ['font-size', 'color'])
-      });
-    });
-    
-    return results;
-  });
   
-  // Save to JSON file for LLM analysis
-  fs.writeFileSync('style-analysis.json', JSON.stringify(styleData, null, 2));
-  await browser.close();
-}
-```
-
-## CSS Parsing Tools
-
-**3. PostCSS + Analysis**
-```bash
-npm install postcss postcss-cli postcss-scss
-```
-
-**4. CSS Tree Parser**
-```javascript
-const csstree = require('css-tree');
-const fs = require('fs');
-
-// Parse all CSS files
-const cssFiles = ['style.css', 'main.css']; // your CSS files
-const analysis = {};
-
-cssFiles.forEach(file => {
-  const css = fs.readFileSync(file, 'utf8');
-  const ast = csstree.parse(css);
-  
-  csstree.walk(ast, node => {
-    if (node.type === 'Rule') {
-      const selector = csstree.generate(node.prelude);
-      const declarations = {};
-      
-      node.block.children.forEach(decl => {
-        if (decl.type === 'Declaration') {
-          declarations[decl.property] = csstree.generate(decl.value);
-        }
-      });
-      
-      analysis[selector] = declarations;
-    }
-  });
-});
-
-fs.writeFileSync('css-analysis.json', JSON.stringify(analysis, null, 2));
-```
-
-## Ready-to-Use Tools
-
-**5. Stylify Me** (Online tool with API)
-```bash
-# Can be automated with curl
-curl "http://stylifyme.com/api?url=http://localhost:9000"
-```
-
-**6. CSS Used** (npm package)
-```bash
-npm install -g css-used
-css-used --url http://localhost:9000 --css path/to/styles.css
-```
-
-## LLM-Ready Output Format
-
-Create a comprehensive analysis file:
-```javascript
-// generate-style-report.js
-const output = {
-  timestamp: new Date().toISOString(),
-  url: 'http://localhost:9000',
-  elements: [
-    {
-      selector: '.header h1',
-      text: 'Welcome to My Site',
-      computedStyles: {
-        fontSize: '24px',
-        color: 'rgb(51, 51, 51)',
-        fontFamily: 'Arial, sans-serif'
-      },
-      cssSource: {
-        fontSize: { file: 'main.css', line: 15, rule: '.header h1' },
-        color: { file: 'base.css', line: 8, rule: 'h1' }
-      }
-    }
-  ],
-  cssRules: {
-    // All CSS rules with their sources
-  }
-};
-```
-
-## Quick Start Command
-
-```bash
-# Install and run Puppeteer analysis
-npm init -y
-npm install puppeteer
-node analyze-styles.js
-```
-
-The Puppeteer approach is most comprehensive - it gives you the computed styles AND can trace back to the CSS rules that created them. The generated JSON file will be perfect for LLM analysis to answer questions like "Why is this text red?" or "Where does this font size come from?"
-

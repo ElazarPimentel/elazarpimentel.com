@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-04T03:52:56.758Z",
+  "timestamp": "2025-10-04T04:38:35.522Z",
   "url": "http://localhost:8000/es/",
   "viewportInfo": {
     "scrollY": 0,
@@ -8,7 +8,7 @@
     "htmlMargin": "0px",
     "bodyMargin": "0px"
   },
-  "totalElements": 52,
+  "totalElements": 59,
   "elements": [
     {
       "selector": "html",
@@ -18,7 +18,7 @@
         "top": 0,
         "left": 0,
         "width": 800,
-        "height": 600
+        "height": 613.375
       },
       "computedStyles": {
         "margin": "0px",
@@ -49,7 +49,7 @@
         "bottom": "auto",
         "left": "auto",
         "width": "800px",
-        "height": "600px",
+        "height": "613.375px",
         "flex": "0 1 auto",
         "flexDirection": "row",
         "gap": "normal",
@@ -1858,7 +1858,7 @@
         "top": 0,
         "left": 0,
         "width": 800,
-        "height": 600
+        "height": 613.375
       },
       "computedStyles": {
         "margin": "0px",
@@ -1889,7 +1889,7 @@
         "bottom": "auto",
         "left": "auto",
         "width": "800px",
-        "height": "600px",
+        "height": "613.375px",
         "flex": "0 1 auto",
         "flexDirection": "column",
         "gap": "0px",
@@ -1995,7 +1995,7 @@
         "position": "absolute",
         "top": "-600px",
         "right": "562.844px",
-        "bottom": "1160px",
+        "bottom": "1173.38px",
         "left": "16px",
         "width": "221.156px",
         "height": "40px",
@@ -2086,7 +2086,7 @@
         "top": 8,
         "left": 47.203125,
         "width": 705.59375,
-        "height": 68
+        "height": 90.375
       },
       "computedStyles": {
         "margin": "0px 39.2031px",
@@ -2117,7 +2117,7 @@
         "bottom": "0px",
         "left": "0px",
         "width": "705.594px",
-        "height": "68px",
+        "height": "90.375px",
         "flex": "0 0 auto",
         "flexDirection": "row",
         "gap": "normal",
@@ -2230,7 +2230,7 @@
         "top": 18,
         "left": 57.203125,
         "width": 685.59375,
-        "height": 48
+        "height": 70.375
       },
       "computedStyles": {
         "margin": "0px",
@@ -2238,11 +2238,11 @@
         "marginRight": "0px",
         "marginBottom": "0px",
         "marginLeft": "0px",
-        "padding": "0px",
-        "paddingTop": "0px",
-        "paddingRight": "0px",
-        "paddingBottom": "0px",
-        "paddingLeft": "0px",
+        "padding": "11.2px",
+        "paddingTop": "11.2px",
+        "paddingRight": "11.2px",
+        "paddingBottom": "11.2px",
+        "paddingLeft": "11.2px",
         "border": "0px none rgb(224, 224, 224)",
         "borderTop": "0px none rgb(224, 224, 224)",
         "borderRight": "0px none rgb(224, 224, 224)",
@@ -2261,7 +2261,7 @@
         "bottom": "auto",
         "left": "auto",
         "width": "685.594px",
-        "height": "48px",
+        "height": "70.375px",
         "flex": "0 1 auto",
         "flexDirection": "row",
         "gap": "16px",
@@ -2298,7 +2298,11 @@
             "align-items": "center",
             "width": "100%",
             "row-gap": "",
-            "column-gap": ""
+            "column-gap": "",
+            "padding-top": "0.7rem",
+            "padding-right": "0.7rem",
+            "padding-bottom": "0.7rem",
+            "padding-left": "0.7rem"
           },
           "href": "http://localhost:8000/css/styles.css"
         }
@@ -2309,8 +2313,8 @@
       "tag": "div",
       "text": "Elazar Pimentel",
       "position": {
-        "top": 22,
-        "left": 57.203125,
+        "top": 33.1875,
+        "left": 68.390625,
         "width": 336.015625,
         "height": 40
       },
@@ -2388,8 +2392,8 @@
       "tag": "h2",
       "text": "Elazar Pimentel",
       "position": {
-        "top": 22,
-        "left": 57.203125,
+        "top": 33.1875,
+        "left": 68.390625,
         "width": 336.015625,
         "height": 40
       },
@@ -2496,9 +2500,9 @@
       "tag": "div",
       "text": "Program, Project and Digital Product Management",
       "position": {
-        "top": 18,
-        "left": 409.21875,
-        "width": 262.25,
+        "top": 29.1875,
+        "left": 420.40625,
+        "width": 239.875,
         "height": 48
       },
       "computedStyles": {
@@ -2529,7 +2533,7 @@
         "right": "auto",
         "bottom": "auto",
         "left": "auto",
-        "width": "262.25px",
+        "width": "239.875px",
         "height": "48px",
         "flex": "1 1 0%",
         "flexDirection": "row",
@@ -2576,9 +2580,9 @@
       "tag": "p",
       "text": "Program, Project and Digital Product Management",
       "position": {
-        "top": 18,
-        "left": 409.21875,
-        "width": 262.25,
+        "top": 29.1875,
+        "left": 420.40625,
+        "width": 239.875,
         "height": 48
       },
       "computedStyles": {
@@ -2609,7 +2613,7 @@
         "right": "auto",
         "bottom": "auto",
         "left": "auto",
-        "width": "262.25px",
+        "width": "239.875px",
         "height": "48px",
         "flex": "0 1 auto",
         "flexDirection": "row",
@@ -2674,8 +2678,8 @@
       "tag": "nav",
       "text": "EN",
       "position": {
-        "top": 21.5,
-        "left": 687.46875,
+        "top": 32.6875,
+        "left": 676.28125,
         "width": 55.328125,
         "height": 41
       },
@@ -2753,8 +2757,8 @@
       "tag": "a",
       "text": "EN",
       "position": {
-        "top": 21.5,
-        "left": 687.46875,
+        "top": 32.6875,
+        "left": 676.28125,
         "width": 55.328125,
         "height": 41
       },
@@ -2877,12 +2881,12 @@
     {
       "selector": "main#main-content.container-main.border-01",
       "tag": "main",
-      "text": "Gestión de Programas, Proyectos y Productos Digita",
+      "text": "Más sobre mí\n                Portfolio\n           ",
       "position": {
-        "top": 112,
+        "top": 134.375,
         "left": 47.203125,
         "width": 705.59375,
-        "height": 427
+        "height": 418
       },
       "computedStyles": {
         "margin": "16px 39.2031px 0px",
@@ -2913,7 +2917,7 @@
         "bottom": "0px",
         "left": "0px",
         "width": "705.594px",
-        "height": "427px",
+        "height": "418px",
         "flex": "1 1 0%",
         "flexDirection": "column",
         "gap": "normal",
@@ -3043,11 +3047,756 @@
       ]
     },
     {
+      "selector": "section.section-top",
+      "tag": "section",
+      "text": "Más sobre mí\n                Portfolio",
+      "position": {
+        "top": 168.375,
+        "left": 81.203125,
+        "width": 637.59375,
+        "height": 44
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(224, 224, 224)",
+        "borderTop": "0px none rgb(224, 224, 224)",
+        "borderRight": "0px none rgb(224, 224, 224)",
+        "borderBottom": "0px none rgb(224, 224, 224)",
+        "borderLeft": "0px none rgb(224, 224, 224)",
+        "fontSize": "16px",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(224, 224, 224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "flex",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "637.594px",
+        "height": "44px",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "flex-end",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": ".section-top",
+          "styles": {
+            "display": "flex",
+            "justify-content": "flex-end"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "main > *",
+          "styles": {
+            "animation-duration": "0.6s",
+            "animation-timing-function": "ease-out",
+            "animation-delay": "0s",
+            "animation-iteration-count": "1",
+            "animation-direction": "normal",
+            "animation-fill-mode": "forwards",
+            "animation-play-state": "running",
+            "animation-name": "fadeInUp",
+            "animation-timeline": "auto",
+            "animation-range-start": "normal",
+            "animation-range-end": "normal",
+            "will-change": "opacity, transform",
+            "transform": "translateZ(0px)"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "main > :nth-child(1)",
+          "styles": {
+            "animation-delay": "0.1s"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "main > *",
+          "styles": {
+            "animation-fill-mode": "forwards"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "nav",
+      "tag": "nav",
+      "text": "Más sobre mí\n                Portfolio",
+      "position": {
+        "top": 168.375,
+        "left": 416.296875,
+        "width": 302.5,
+        "height": 44
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(224, 224, 224)",
+        "borderTop": "0px none rgb(224, 224, 224)",
+        "borderRight": "0px none rgb(224, 224, 224)",
+        "borderBottom": "0px none rgb(224, 224, 224)",
+        "borderLeft": "0px none rgb(224, 224, 224)",
+        "fontSize": "16px",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(224, 224, 224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "flex",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "302.5px",
+        "height": "44px",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "16px",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": ".section-top nav",
+          "styles": {
+            "display": "flex",
+            "row-gap": "1rem",
+            "column-gap": "1rem"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "a.nav-link",
+      "tag": "a",
+      "text": "Más sobre mí",
+      "position": {
+        "top": 168.375,
+        "left": 408.2895202636719,
+        "width": 174.51467895507812,
+        "height": 44
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "8px 24px",
+        "paddingTop": "8px",
+        "paddingRight": "24px",
+        "paddingBottom": "8px",
+        "paddingLeft": "24px",
+        "border": "2px solid rgb(64, 64, 64)",
+        "borderTop": "2px solid rgb(64, 64, 64)",
+        "borderRight": "2px solid rgb(64, 64, 64)",
+        "borderBottom": "2px solid rgb(64, 64, 64)",
+        "borderLeft": "2px solid rgb(64, 64, 64)",
+        "fontSize": "16px",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(224, 224, 224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "flex",
+        "position": "relative",
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px",
+        "width": "158.5px",
+        "height": "44px",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "8px",
+        "justifyContent": "center",
+        "alignItems": "center"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": ".nav-link",
+          "styles": {
+            "display": "flex",
+            "flex-direction": "row",
+            "align-items": "center",
+            "justify-content": "center",
+            "row-gap": "",
+            "column-gap": "",
+            "padding-top": "",
+            "padding-right": "",
+            "padding-bottom": "",
+            "padding-left": "",
+            "background-color": "transparent",
+            "border-top-color": "",
+            "border-top-style": "",
+            "border-top-width": "",
+            "border-right-color": "",
+            "border-right-style": "",
+            "border-right-width": "",
+            "border-bottom-color": "",
+            "border-bottom-style": "",
+            "border-bottom-width": "",
+            "border-left-color": "",
+            "border-left-style": "",
+            "border-left-width": "",
+            "border-image-source": "",
+            "border-image-slice": "",
+            "border-image-width": "",
+            "border-image-outset": "",
+            "border-image-repeat": "",
+            "border-top-left-radius": "",
+            "border-top-right-radius": "",
+            "border-bottom-right-radius": "",
+            "border-bottom-left-radius": "",
+            "text-decoration-line": "none",
+            "text-decoration-thickness": "initial",
+            "text-decoration-style": "initial",
+            "text-decoration-color": "initial",
+            "color": "var(--color-text-secondary)",
+            "transition-property": "",
+            "transition-duration": "",
+            "transition-timing-function": "",
+            "transition-delay": "",
+            "transition-behavior": "",
+            "min-width": "8rem",
+            "transform": "skewX(-20deg)"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "a",
+          "styles": {
+            "transition-property": "",
+            "transition-duration": "",
+            "transition-timing-function": "",
+            "transition-delay": "",
+            "transition-behavior": ""
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "a:not(.contact-link):not(.lang-button):not(.skip-link)",
+          "styles": {
+            "color": "var(--color-text-secondary)",
+            "text-decoration-line": "none",
+            "text-decoration-thickness": "initial",
+            "text-decoration-style": "initial",
+            "text-decoration-color": "initial",
+            "position": "relative"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "span",
+      "tag": "span",
+      "text": "Más sobre mí",
+      "position": {
+        "top": 178.375,
+        "left": 442.296875,
+        "width": 106.5,
+        "height": 24
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(224, 224, 224)",
+        "borderTop": "0px none rgb(224, 224, 224)",
+        "borderRight": "0px none rgb(224, 224, 224)",
+        "borderBottom": "0px none rgb(224, 224, 224)",
+        "borderLeft": "0px none rgb(224, 224, 224)",
+        "fontSize": "16px",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(224, 224, 224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "106.5px",
+        "height": "24px",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": ".nav-link span",
+          "styles": {
+            "transform": "skewX(20deg)"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "a.nav-link",
+      "tag": "a",
+      "text": "Portfolio",
+      "position": {
+        "top": 168.375,
+        "left": 582.78955078125,
+        "width": 144.0146484375,
+        "height": 44
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "8px 24px",
+        "paddingTop": "8px",
+        "paddingRight": "24px",
+        "paddingBottom": "8px",
+        "paddingLeft": "24px",
+        "border": "2px solid rgb(64, 64, 64)",
+        "borderTop": "2px solid rgb(64, 64, 64)",
+        "borderRight": "2px solid rgb(64, 64, 64)",
+        "borderBottom": "2px solid rgb(64, 64, 64)",
+        "borderLeft": "2px solid rgb(64, 64, 64)",
+        "fontSize": "16px",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(224, 224, 224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "flex",
+        "position": "relative",
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px",
+        "width": "128px",
+        "height": "44px",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "8px",
+        "justifyContent": "center",
+        "alignItems": "center"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": ".nav-link",
+          "styles": {
+            "display": "flex",
+            "flex-direction": "row",
+            "align-items": "center",
+            "justify-content": "center",
+            "row-gap": "",
+            "column-gap": "",
+            "padding-top": "",
+            "padding-right": "",
+            "padding-bottom": "",
+            "padding-left": "",
+            "background-color": "transparent",
+            "border-top-color": "",
+            "border-top-style": "",
+            "border-top-width": "",
+            "border-right-color": "",
+            "border-right-style": "",
+            "border-right-width": "",
+            "border-bottom-color": "",
+            "border-bottom-style": "",
+            "border-bottom-width": "",
+            "border-left-color": "",
+            "border-left-style": "",
+            "border-left-width": "",
+            "border-image-source": "",
+            "border-image-slice": "",
+            "border-image-width": "",
+            "border-image-outset": "",
+            "border-image-repeat": "",
+            "border-top-left-radius": "",
+            "border-top-right-radius": "",
+            "border-bottom-right-radius": "",
+            "border-bottom-left-radius": "",
+            "text-decoration-line": "none",
+            "text-decoration-thickness": "initial",
+            "text-decoration-style": "initial",
+            "text-decoration-color": "initial",
+            "color": "var(--color-text-secondary)",
+            "transition-property": "",
+            "transition-duration": "",
+            "transition-timing-function": "",
+            "transition-delay": "",
+            "transition-behavior": "",
+            "min-width": "8rem",
+            "transform": "skewX(-20deg)"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "a",
+          "styles": {
+            "transition-property": "",
+            "transition-duration": "",
+            "transition-timing-function": "",
+            "transition-delay": "",
+            "transition-behavior": ""
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "a:not(.contact-link):not(.lang-button):not(.skip-link)",
+          "styles": {
+            "color": "var(--color-text-secondary)",
+            "text-decoration-line": "none",
+            "text-decoration-thickness": "initial",
+            "text-decoration-style": "initial",
+            "text-decoration-color": "initial",
+            "position": "relative"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "span",
+      "tag": "span",
+      "text": "Portfolio",
+      "position": {
+        "top": 178.375,
+        "left": 621.875,
+        "width": 65.828125,
+        "height": 24
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(224, 224, 224)",
+        "borderTop": "0px none rgb(224, 224, 224)",
+        "borderRight": "0px none rgb(224, 224, 224)",
+        "borderBottom": "0px none rgb(224, 224, 224)",
+        "borderLeft": "0px none rgb(224, 224, 224)",
+        "fontSize": "16px",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(224, 224, 224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "65.8281px",
+        "height": "24px",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": ".nav-link span",
+          "styles": {
+            "transform": "skewX(20deg)"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "section.section-middle",
+      "tag": "section",
+      "text": "Gestión de Programas, Proyectos y Productos Digita",
+      "position": {
+        "top": 212.375,
+        "left": 81.203125,
+        "width": 637.59375,
+        "height": 228
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(224, 224, 224)",
+        "borderTop": "0px none rgb(224, 224, 224)",
+        "borderRight": "0px none rgb(224, 224, 224)",
+        "borderBottom": "0px none rgb(224, 224, 224)",
+        "borderLeft": "0px none rgb(224, 224, 224)",
+        "fontSize": "16px",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(224, 224, 224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "flex",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "637.594px",
+        "height": "228px",
+        "flex": "1 1 0%",
+        "flexDirection": "column",
+        "gap": "normal",
+        "justifyContent": "center",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": ".section-middle",
+          "styles": {
+            "flex-grow": "1",
+            "flex-shrink": "1",
+            "flex-basis": "0%",
+            "display": "flex",
+            "flex-direction": "column",
+            "justify-content": "center"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "main > *",
+          "styles": {
+            "animation-duration": "0.6s",
+            "animation-timing-function": "ease-out",
+            "animation-delay": "0s",
+            "animation-iteration-count": "1",
+            "animation-direction": "normal",
+            "animation-fill-mode": "forwards",
+            "animation-play-state": "running",
+            "animation-name": "fadeInUp",
+            "animation-timeline": "auto",
+            "animation-range-start": "normal",
+            "animation-range-end": "normal",
+            "will-change": "opacity, transform",
+            "transform": "translateZ(0px)"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "main > :nth-child(2)",
+          "styles": {
+            "animation-delay": "0.2s"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "main > *",
+          "styles": {
+            "animation-fill-mode": "forwards"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
       "selector": "h1",
       "tag": "h1",
       "text": "Gestión de Programas, Proyectos y Productos Digita",
       "position": {
-        "top": 146,
+        "top": 212.375,
         "left": 81.203125,
         "width": 637.59375,
         "height": 60
@@ -3119,39 +3868,6 @@
             "line-height": "var(--line-height-tight)"
           },
           "href": "http://localhost:8000/css/styles.css"
-        },
-        {
-          "selector": "main > *",
-          "styles": {
-            "animation-duration": "0.6s",
-            "animation-timing-function": "ease-out",
-            "animation-delay": "0s",
-            "animation-iteration-count": "1",
-            "animation-direction": "normal",
-            "animation-fill-mode": "forwards",
-            "animation-play-state": "running",
-            "animation-name": "fadeInUp",
-            "animation-timeline": "auto",
-            "animation-range-start": "normal",
-            "animation-range-end": "normal",
-            "will-change": "opacity, transform",
-            "transform": "translateZ(0px)"
-          },
-          "href": "http://localhost:8000/css/styles.css"
-        },
-        {
-          "selector": "main > :nth-child(1)",
-          "styles": {
-            "animation-delay": "0.1s"
-          },
-          "href": "http://localhost:8000/css/styles.css"
-        },
-        {
-          "selector": "main > *",
-          "styles": {
-            "animation-fill-mode": "forwards"
-          },
-          "href": "http://localhost:8000/css/styles.css"
         }
       ]
     },
@@ -3160,7 +3876,7 @@
       "tag": "p",
       "text": "Más de 20 años de experiencia en roles ejecutivos ",
       "position": {
-        "top": 206,
+        "top": 272.375,
         "left": 81.203125,
         "width": 637.59375,
         "height": 24
@@ -3230,39 +3946,6 @@
             "color": "var(--color-text-secondary)"
           },
           "href": "http://localhost:8000/css/styles.css"
-        },
-        {
-          "selector": "main > *",
-          "styles": {
-            "animation-duration": "0.6s",
-            "animation-timing-function": "ease-out",
-            "animation-delay": "0s",
-            "animation-iteration-count": "1",
-            "animation-direction": "normal",
-            "animation-fill-mode": "forwards",
-            "animation-play-state": "running",
-            "animation-name": "fadeInUp",
-            "animation-timeline": "auto",
-            "animation-range-start": "normal",
-            "animation-range-end": "normal",
-            "will-change": "opacity, transform",
-            "transform": "translateZ(0px)"
-          },
-          "href": "http://localhost:8000/css/styles.css"
-        },
-        {
-          "selector": "main > :nth-child(2)",
-          "styles": {
-            "animation-delay": "0.2s"
-          },
-          "href": "http://localhost:8000/css/styles.css"
-        },
-        {
-          "selector": "main > *",
-          "styles": {
-            "animation-fill-mode": "forwards"
-          },
-          "href": "http://localhost:8000/css/styles.css"
         }
       ]
     },
@@ -3271,7 +3954,7 @@
       "tag": "p",
       "text": "Administro proyectos aplicando PMBOK, SAFe y Water",
       "position": {
-        "top": 230,
+        "top": 296.375,
         "left": 81.203125,
         "width": 637.59375,
         "height": 72
@@ -3339,6 +4022,163 @@
           "styles": {
             "line-height": "var(--line-height-normal)",
             "color": "var(--color-text-secondary)"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "p",
+      "tag": "p",
+      "text": "En Productos Digitales actúo como Product Owner ex",
+      "position": {
+        "top": 368.375,
+        "left": 81.203125,
+        "width": 637.59375,
+        "height": 72
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(224, 224, 224)",
+        "borderTop": "0px none rgb(224, 224, 224)",
+        "borderRight": "0px none rgb(224, 224, 224)",
+        "borderBottom": "0px none rgb(224, 224, 224)",
+        "borderLeft": "0px none rgb(224, 224, 224)",
+        "fontSize": "16px",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(224, 224, 224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "637.594px",
+        "height": "72px",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "p",
+          "styles": {
+            "line-height": "var(--line-height-normal)",
+            "color": "var(--color-text-secondary)"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "section.section-bottom",
+      "tag": "section",
+      "text": "Contacto\n            \n                \n           ",
+      "position": {
+        "top": 440.375,
+        "left": 81.203125,
+        "width": 637.59375,
+        "height": 78
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(224, 224, 224)",
+        "borderTop": "0px none rgb(224, 224, 224)",
+        "borderRight": "0px none rgb(224, 224, 224)",
+        "borderBottom": "0px none rgb(224, 224, 224)",
+        "borderLeft": "0px none rgb(224, 224, 224)",
+        "fontSize": "16px",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(224, 224, 224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "flex",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "637.594px",
+        "height": "78px",
+        "flex": "0 1 auto",
+        "flexDirection": "column",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "center"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": ".section-bottom",
+          "styles": {
+            "display": "flex",
+            "flex-direction": "column",
+            "align-items": "center"
           },
           "href": "http://localhost:8000/css/styles.css"
         },
@@ -3378,233 +4218,12 @@
       ]
     },
     {
-      "selector": "p",
-      "tag": "p",
-      "text": "En Productos Digitales actúo como Product Owner ex",
-      "position": {
-        "top": 302,
-        "left": 81.203125,
-        "width": 637.59375,
-        "height": 72
-      },
-      "computedStyles": {
-        "margin": "0px",
-        "marginTop": "0px",
-        "marginRight": "0px",
-        "marginBottom": "0px",
-        "marginLeft": "0px",
-        "padding": "0px",
-        "paddingTop": "0px",
-        "paddingRight": "0px",
-        "paddingBottom": "0px",
-        "paddingLeft": "0px",
-        "border": "0px none rgb(224, 224, 224)",
-        "borderTop": "0px none rgb(224, 224, 224)",
-        "borderRight": "0px none rgb(224, 224, 224)",
-        "borderBottom": "0px none rgb(224, 224, 224)",
-        "borderLeft": "0px none rgb(224, 224, 224)",
-        "fontSize": "16px",
-        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
-        "fontWeight": "400",
-        "lineHeight": "24px",
-        "color": "rgb(224, 224, 224)",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "display": "block",
-        "position": "static",
-        "top": "auto",
-        "right": "auto",
-        "bottom": "auto",
-        "left": "auto",
-        "width": "637.594px",
-        "height": "72px",
-        "flex": "0 1 auto",
-        "flexDirection": "row",
-        "gap": "normal",
-        "justifyContent": "normal",
-        "alignItems": "normal"
-      },
-      "matchedCSSRules": [
-        {
-          "selector": "*, ::before, ::after",
-          "styles": {
-            "box-sizing": "border-box"
-          },
-          "href": "http://localhost:8000/css/styles.css"
-        },
-        {
-          "selector": "*",
-          "styles": {
-            "margin-top": "0px",
-            "margin-right": "0px",
-            "margin-bottom": "0px",
-            "margin-left": "0px",
-            "padding-top": "0px",
-            "padding-right": "0px",
-            "padding-bottom": "0px",
-            "padding-left": "0px"
-          },
-          "href": "http://localhost:8000/css/styles.css"
-        },
-        {
-          "selector": "p",
-          "styles": {
-            "line-height": "var(--line-height-normal)",
-            "color": "var(--color-text-secondary)"
-          },
-          "href": "http://localhost:8000/css/styles.css"
-        },
-        {
-          "selector": "main > *",
-          "styles": {
-            "animation-duration": "0.6s",
-            "animation-timing-function": "ease-out",
-            "animation-delay": "0s",
-            "animation-iteration-count": "1",
-            "animation-direction": "normal",
-            "animation-fill-mode": "forwards",
-            "animation-play-state": "running",
-            "animation-name": "fadeInUp",
-            "animation-timeline": "auto",
-            "animation-range-start": "normal",
-            "animation-range-end": "normal",
-            "will-change": "opacity, transform",
-            "transform": "translateZ(0px)"
-          },
-          "href": "http://localhost:8000/css/styles.css"
-        },
-        {
-          "selector": "main > :nth-child(4)",
-          "styles": {
-            "animation-delay": "0.4s"
-          },
-          "href": "http://localhost:8000/css/styles.css"
-        },
-        {
-          "selector": "main > *",
-          "styles": {
-            "animation-fill-mode": "forwards"
-          },
-          "href": "http://localhost:8000/css/styles.css"
-        }
-      ]
-    },
-    {
-      "selector": "section.contact-section",
-      "tag": "section",
-      "text": "Contacto\n            \n                \n           ",
-      "position": {
-        "top": 427,
-        "left": 81.203125,
-        "width": 637.59375,
-        "height": 78
-      },
-      "computedStyles": {
-        "margin": "53px 0px 0px",
-        "marginTop": "53px",
-        "marginRight": "0px",
-        "marginBottom": "0px",
-        "marginLeft": "0px",
-        "padding": "0px",
-        "paddingTop": "0px",
-        "paddingRight": "0px",
-        "paddingBottom": "0px",
-        "paddingLeft": "0px",
-        "border": "0px none rgb(224, 224, 224)",
-        "borderTop": "0px none rgb(224, 224, 224)",
-        "borderRight": "0px none rgb(224, 224, 224)",
-        "borderBottom": "0px none rgb(224, 224, 224)",
-        "borderLeft": "0px none rgb(224, 224, 224)",
-        "fontSize": "16px",
-        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
-        "fontWeight": "400",
-        "lineHeight": "24px",
-        "color": "rgb(224, 224, 224)",
-        "backgroundColor": "rgba(0, 0, 0, 0)",
-        "display": "block",
-        "position": "static",
-        "top": "auto",
-        "right": "auto",
-        "bottom": "auto",
-        "left": "auto",
-        "width": "637.594px",
-        "height": "78px",
-        "flex": "0 1 auto",
-        "flexDirection": "row",
-        "gap": "normal",
-        "justifyContent": "normal",
-        "alignItems": "normal"
-      },
-      "matchedCSSRules": [
-        {
-          "selector": "*, ::before, ::after",
-          "styles": {
-            "box-sizing": "border-box"
-          },
-          "href": "http://localhost:8000/css/styles.css"
-        },
-        {
-          "selector": "*",
-          "styles": {
-            "margin-top": "0px",
-            "margin-right": "0px",
-            "margin-bottom": "0px",
-            "margin-left": "0px",
-            "padding-top": "0px",
-            "padding-right": "0px",
-            "padding-bottom": "0px",
-            "padding-left": "0px"
-          },
-          "href": "http://localhost:8000/css/styles.css"
-        },
-        {
-          "selector": ".contact-section",
-          "styles": {
-            "margin-top": "auto"
-          },
-          "href": "http://localhost:8000/css/styles.css"
-        },
-        {
-          "selector": "main > *",
-          "styles": {
-            "animation-duration": "0.6s",
-            "animation-timing-function": "ease-out",
-            "animation-delay": "0s",
-            "animation-iteration-count": "1",
-            "animation-direction": "normal",
-            "animation-fill-mode": "forwards",
-            "animation-play-state": "running",
-            "animation-name": "fadeInUp",
-            "animation-timeline": "auto",
-            "animation-range-start": "normal",
-            "animation-range-end": "normal",
-            "will-change": "opacity, transform",
-            "transform": "translateZ(0px)"
-          },
-          "href": "http://localhost:8000/css/styles.css"
-        },
-        {
-          "selector": "main > :nth-child(5)",
-          "styles": {
-            "animation-delay": "0.5s"
-          },
-          "href": "http://localhost:8000/css/styles.css"
-        },
-        {
-          "selector": "main > *",
-          "styles": {
-            "animation-fill-mode": "forwards"
-          },
-          "href": "http://localhost:8000/css/styles.css"
-        }
-      ]
-    },
-    {
       "selector": "h2#contact-heading.visually-hidden",
       "tag": "h2",
       "text": "Contacto",
       "position": {
-        "top": 426,
-        "left": 80.203125,
+        "top": 439.375,
+        "left": 399.5,
         "width": 1,
         "height": 1
       },
@@ -3633,9 +4252,9 @@
         "display": "block",
         "position": "absolute",
         "top": "0px",
-        "right": "638.594px",
+        "right": "319.297px",
         "bottom": "79px",
-        "left": "0px",
+        "left": "319.297px",
         "width": "1px",
         "height": "1px",
         "flex": "0 1 auto",
@@ -3722,9 +4341,9 @@
       "tag": "div",
       "text": "Email\n                \n                \n          ",
       "position": {
-        "top": 443,
-        "left": 81.203125,
-        "width": 637.59375,
+        "top": 456.375,
+        "left": 292,
+        "width": 216,
         "height": 46
       },
       "computedStyles": {
@@ -3755,7 +4374,7 @@
         "right": "auto",
         "bottom": "auto",
         "left": "auto",
-        "width": "637.594px",
+        "width": "216px",
         "height": "46px",
         "flex": "0 1 auto",
         "flexDirection": "row",
@@ -3806,10 +4425,10 @@
       "tag": "a",
       "text": "Email",
       "position": {
-        "top": 442.9996337890625,
-        "left": 291.999267578125,
-        "width": 96.00146484375,
-        "height": 46.000732421875
+        "top": 456.375,
+        "left": 292,
+        "width": 96,
+        "height": 46
       },
       "computedStyles": {
         "margin": "0px",
@@ -3946,7 +4565,7 @@
       "tag": "i",
       "text": "",
       "position": {
-        "top": 452.99981689453125,
+        "top": 466.375,
         "left": 340,
         "width": 0,
         "height": 0
@@ -4034,10 +4653,10 @@
       "tag": "span",
       "text": "Email",
       "position": {
-        "top": 460.99993896484375,
-        "left": 323.343505859375,
-        "width": 33.29736328125,
-        "height": 18.000244140625
+        "top": 474.375,
+        "left": 323.34375,
+        "width": 33.296875,
+        "height": 18
       },
       "computedStyles": {
         "margin": "0px",
@@ -4124,10 +4743,10 @@
       "tag": "a",
       "text": "WhatsApp",
       "position": {
-        "top": 442.9996337890625,
-        "left": 411.999267578125,
-        "width": 96.00146484375,
-        "height": 46.000732421875
+        "top": 456.375,
+        "left": 412,
+        "width": 96,
+        "height": 46
       },
       "computedStyles": {
         "margin": "0px",
@@ -4264,7 +4883,7 @@
       "tag": "i",
       "text": "",
       "position": {
-        "top": 452.99981689453125,
+        "top": 466.375,
         "left": 460,
         "width": 0,
         "height": 0
@@ -4352,10 +4971,10 @@
       "tag": "span",
       "text": "WhatsApp",
       "position": {
-        "top": 460.99993896484375,
-        "left": 429.3745422363281,
-        "width": 61.23529052734375,
-        "height": 18.000244140625
+        "top": 474.375,
+        "left": 429.375,
+        "width": 61.234375,
+        "height": 18
       },
       "computedStyles": {
         "margin": "0px",
@@ -4442,7 +5061,7 @@
       "tag": "footer",
       "text": "© 2024 Elazar Pimentel. Todos los derechos reserva",
       "position": {
-        "top": 555,
+        "top": 568.375,
         "left": 47.203125,
         "width": 705.59375,
         "height": 57
@@ -4614,7 +5233,7 @@
       "tag": "p",
       "text": "© 2024 Elazar Pimentel. Todos los derechos reserva",
       "position": {
-        "top": 573,
+        "top": 586.375,
         "left": 202.796875,
         "width": 394.390625,
         "height": 21

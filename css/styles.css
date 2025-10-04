@@ -339,10 +339,34 @@ header {
 
 /* Main content */
 main {
-  padding: var(--space-md);
+  padding: 0 var(--space-md) var(--space-md);
   flex: 1;
   display: flex;
   flex-direction: column;
+}
+
+.section-top {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.section-top nav {
+  display: flex;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.section-middle {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.section-bottom {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }
 
 /* Typography */
@@ -366,15 +390,18 @@ p {
 }
 
 /* Contact section */
-.contact-section {
-  margin-top: auto;
-}
-
 .contact-links {
   display: flex;
   justify-content: center;
   gap: var(--space-lg);
   margin: var(--space-md) 0;
+}
+
+main > nav {
+  display: flex;
+  justify-content: flex-end;
+  gap: 1rem;
+  margin: 0 0 0.5rem 0;
 }
 
 .contact-link {
@@ -398,11 +425,39 @@ p {
   background-color: var(--color-hover-bg);
   border-color: var(--color-border-secondary);
   color: var(--color-text-primary);
-  transform: translateY(-2px);
+  transform: translateY(2px);
   animation-play-state: paused;
-  box-shadow: 
-    0 8px 25px rgba(0, 0, 0, 0.4),
+  box-shadow:
+    0 -8px 25px rgba(0, 0, 0, 0.4),
     0 0 0 1px rgba(74, 158, 255, 0.2);
+}
+
+.nav-link {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-sm);
+  padding: var(--space-sm) var(--space-lg);
+  background-color: transparent;
+  border: 2px solid var(--color-border-primary);
+  border-radius: var(--radius-lg);
+  text-decoration: none;
+  color: var(--color-text-secondary);
+  transition: all var(--transition-normal);
+  min-width: 8rem;
+  transform: skewX(-20deg);
+}
+
+.nav-link span {
+  transform: skewX(20deg);
+}
+
+.nav-link:hover,
+.nav-link:focus {
+  background-color: var(--color-hover-bg);
+  border-color: var(--color-accent);
+  color: var(--color-text-primary);
 }
 
 .contact-link:active {
@@ -758,7 +813,7 @@ a:not(.contact-link):not(.lang-button):not(.skip-link):hover {
   
   /* Better layout for tablet */
   main {
-    padding: var(--space-xl);
+    padding: 0 var(--space-xl) var(--space-xl);
   }
   
   h1 {
@@ -792,7 +847,7 @@ a:not(.contact-link):not(.lang-button):not(.skip-link):hover {
   
   /* Desktop-specific enhancements */
   main {
-    padding: var(--space-2xl);
+    padding: 0 var(--space-2xl) var(--space-2xl);
   }
   
   h1 {
@@ -821,7 +876,7 @@ a:not(.contact-link):not(.lang-button):not(.skip-link):hover {
   }
   
   main {
-    padding: var(--space-3xl);
+    padding: 0 var(--space-3xl) var(--space-3xl);
   }
   
   .contact-links {
