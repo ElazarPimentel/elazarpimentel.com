@@ -13,7 +13,7 @@ Technical Program & Project Manager with 20+ years bridging public and private s
 * **Agile/SAFe**: Scrum, Kanban, SAFe event facilitation, risk management
 * **Stakeholder Management**: RFP/bid authoring, procurement cycles, multiregional coordination
 * **Technical Acumen**: IT infrastructure, networking, cybersecurity, cloud platforms (Azure/AWS), AI tools & frameworks
-* **Tools & Platforms**: Jira & Confluence (expert), program-tracking suites
+* **Tools & Platforms**: Jira & Confluence (expert - daily management of multiple teams/projects, API integration, custom Next.js automation), program-tracking suites
 
 ## **Professional Experience**
 

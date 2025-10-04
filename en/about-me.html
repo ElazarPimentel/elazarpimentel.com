@@ -53,6 +53,12 @@
                 margin-bottom: 1.5rem;    /* Space after lists */
                 text-align: left;         /* Keep lists left-aligned */
             }
+
+            & .social-links {
+                display: flex;
+                gap: 1.5rem;              /* Space between social links - adjust this value */
+                margin-top: 1rem;
+            }
         }
     </style>
 
@@ -100,7 +106,7 @@
 
         <p>For over 20 years, I've led complex technical programs across public and private sectors. I lived and worked in the United States for 20 years with US companies before returning to Argentina. I wrote the $480M tender for Buenos Aires' Ecbici smart-mobility platform. I currently lead MovilBA, the city's unified transportation management system, where we use AI models (LSTM for predictions, Isolation Forest for fraud detection) to manage buses, taxis, and public transport at scale.</p>
 
-        <p>I'm not a typical program manager. I learned to code 40 years ago—not as a career, but because I needed to manage technical teams effectively. For years, I kept pace with technology. Then Node.js, React, Next.js, TypeScript, and serverless functions arrived, and I realized I needed to truly catch up. I spent a year training intensively, completing a full-stack development program (Top 10% at CoderHouse). Now I can review pull requests, approve architecture decisions, and speak the same language as my developers.</p>
+        <p>I'm not a typical program manager. I learned to code 40 years ago—not as a career, but because I needed to manage technical teams effectively. For years, I kept pace with technology. Then Node.js, React, Next.js, TypeScript, and serverless functions arrived, and I realized I needed to truly catch up. I spent a year training intensively, completing a full-stack development program (Top 10% at CoderHouse). Now I can review pull requests, approve architecture decisions, and speak the same language as my developers. I don't just use Jira daily to manage multiple teams and projects—I build Next.js applications that integrate with the Atlassian API to automate workflows and update tickets programmatically.</p>
 
         <p>I'm also a registered nurse. I went to nursing school specifically to volunteer in community health centers and primary care facilities. It's given me an unexpected advantage—when projects touch biology, health sciences, or healthcare tech, I understand both the technical and clinical perspectives.</p>
 
@@ -119,10 +125,14 @@
 
         <h2>Connect</h2>
 
-        <p>
-            <a href="https://www.linkedin.com/in/elazarpimentel/" target="_blank" rel="noopener noreferrer">LinkedIn</a> |
-            <a href="https://x.com/PimentelElazar" target="_blank" rel="noopener noreferrer">X (Twitter)</a>
-        </p>
+        <div class="social-links">
+            <a href="https://www.linkedin.com/in/elazarpimentel/" target="_blank" rel="noopener noreferrer" aria-label="Connect on LinkedIn">
+                <i class="fab fa-linkedin" aria-hidden="true"></i> LinkedIn
+            </a>
+            <a href="https://x.com/PimentelElazar" target="_blank" rel="noopener noreferrer" aria-label="Follow on X">
+                <i class="fab fa-x-twitter" aria-hidden="true"></i> (Twitter)
+            </a>
+        </div>
         </section>
 
         <section class="section-bottom" aria-labelledby="contact-heading">
@@ -141,8 +151,6 @@
     </main>
     <footer class="container-main border-01" role="contentinfo">
         <p>&copy; 2024 Elazar Pimentel. All rights reserved.</p>
-        <br>
-        <p>Thank you, Dr. Marie Maynard Daly & Engineer Mary Jackson.</p>
     </footer>
 </body>
 </html>
