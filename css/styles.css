@@ -50,7 +50,7 @@
   --font-size-sm: 0.875rem;
   --font-size-base: 1rem;
   --font-size-lg: 1.125rem;
-  --font-size-xl: 1.25rem;
+  --font-size-xl: 2rem;
   --font-size-2xl: 1.5rem;
   --font-size-3xl: 2rem;
   --font-size-4xl: 2.5rem;
@@ -272,6 +272,7 @@ header {
   align-items: center;
   width: 100%;
   gap: var(--space-md);
+  padding: .7rem;
 }
 
 #logo-left {
@@ -280,7 +281,7 @@ header {
 
 .logo-text {
   font-family: var(--font-family-mono);
-  font-size: var(--font-size-2xl);
+  font-size: var(--font-size-xl);
   font-weight: bold;
   letter-spacing: 0.1em;
   margin: 0;
@@ -693,7 +694,7 @@ a:not(.contact-link):not(.lang-button):not(.skip-link):hover {
 /* Mobile improvements (375px - 767px) */
 @media screen and (min-width: 375px) and (max-width: 767px) {
   .logo-text {
-    font-size: var(--font-size-2xl);
+    font-size: var(--font-size-xl);
   }
   
   .title-01 {
@@ -738,7 +739,7 @@ a:not(.contact-link):not(.lang-button):not(.skip-link):hover {
   }
   
   .logo-text {
-    font-size: var(--font-size-3xl);
+    font-size: var(--font-size-xl);
   }
   
   .title-01 {
@@ -773,7 +774,7 @@ a:not(.contact-link):not(.lang-button):not(.skip-link):hover {
   }
   
   .logo-text {
-    font-size: var(--font-size-4xl);
+    font-size: var(--font-size-xl);
   }
   
   .title-01 {
@@ -816,7 +817,7 @@ a:not(.contact-link):not(.lang-button):not(.skip-link):hover {
   }
   
   .logo-text {
-    font-size: 3.5rem;
+    font-size: var(--font-size-xl);
   }
   
   main {

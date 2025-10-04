@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-10-04T03:48:48.837Z",
+  "timestamp": "2025-10-04T03:52:56.758Z",
   "url": "http://localhost:8000/es/",
   "viewportInfo": {
     "scrollY": 0,
@@ -2455,7 +2455,7 @@
           "selector": ".logo-text",
           "styles": {
             "font-family": "var(--font-family-mono)",
-            "font-size": "var(--font-size-3xl)",
+            "font-size": "var(--font-size-xl)",
             "font-weight": "bold",
             "letter-spacing": "0.1em",
             "margin-top": "0px",
@@ -2674,7 +2674,7 @@
       "tag": "nav",
       "text": "EN",
       "position": {
-        "top": 41.5,
+        "top": 21.5,
         "left": 687.46875,
         "width": 55.328125,
         "height": 41
@@ -2745,23 +2745,6 @@
             "flex-basis": "auto"
           },
           "href": "http://localhost:8000/css/styles.css"
-        },
-        {
-          "selector": ".language-switcher",
-          "styles": {
-            "animation-duration": "0.8s",
-            "animation-timing-function": "ease-out",
-            "animation-delay": "0.7s",
-            "animation-iteration-count": "1",
-            "animation-direction": "normal",
-            "animation-fill-mode": "both",
-            "animation-play-state": "running",
-            "animation-name": "fadeInUp",
-            "animation-timeline": "auto",
-            "animation-range-start": "normal",
-            "animation-range-end": "normal"
-          },
-          "href": "http://localhost:8000/css/styles.css"
         }
       ]
     },
@@ -2770,7 +2753,7 @@
       "tag": "a",
       "text": "EN",
       "position": {
-        "top": 41.5,
+        "top": 21.5,
         "left": 687.46875,
         "width": 55.328125,
         "height": 41
@@ -3510,14 +3493,14 @@
       "tag": "section",
       "text": "Contacto\n            \n                \n           ",
       "position": {
-        "top": 397.921875,
+        "top": 427,
         "left": 81.203125,
         "width": 637.59375,
-        "height": 107.078125
+        "height": 78
       },
       "computedStyles": {
-        "margin": "23.9219px 0px 0px",
-        "marginTop": "23.9219px",
+        "margin": "53px 0px 0px",
+        "marginTop": "53px",
         "marginRight": "0px",
         "marginBottom": "0px",
         "marginLeft": "0px",
@@ -3544,7 +3527,7 @@
         "bottom": "auto",
         "left": "auto",
         "width": "637.594px",
-        "height": "107.078px",
+        "height": "78px",
         "flex": "0 1 auto",
         "flexDirection": "row",
         "gap": "normal",
@@ -3620,7 +3603,7 @@
       "tag": "h2",
       "text": "Contacto",
       "position": {
-        "top": 396.921875,
+        "top": 426,
         "left": 80.203125,
         "width": 1,
         "height": 1
@@ -3651,7 +3634,7 @@
         "position": "absolute",
         "top": "0px",
         "right": "638.594px",
-        "bottom": "108.078px",
+        "bottom": "79px",
         "left": "0px",
         "width": "1px",
         "height": "1px",
@@ -3739,10 +3722,10 @@
       "tag": "div",
       "text": "Email\n                \n                \n          ",
       "position": {
-        "top": 413.921875,
+        "top": 443,
         "left": 81.203125,
         "width": 637.59375,
-        "height": 75.078125
+        "height": 46
       },
       "computedStyles": {
         "margin": "16px 0px",
@@ -3773,7 +3756,7 @@
         "bottom": "auto",
         "left": "auto",
         "width": "637.594px",
-        "height": "75.0781px",
+        "height": "46px",
         "flex": "0 1 auto",
         "flexDirection": "row",
         "gap": "24px",
@@ -3823,10 +3806,10 @@
       "tag": "a",
       "text": "Email",
       "position": {
-        "top": 413.9208679199219,
-        "left": 291.9986877441406,
-        "width": 96.00259399414062,
-        "height": 75.08016967773438
+        "top": 442.9996337890625,
+        "left": 291.999267578125,
+        "width": 96.00146484375,
+        "height": 46.000732421875
       },
       "computedStyles": {
         "margin": "0px",
@@ -3857,7 +3840,7 @@
         "bottom": "auto",
         "left": "auto",
         "width": "96px",
-        "height": "75.0781px",
+        "height": "46px",
         "flex": "0 1 auto",
         "flexDirection": "column",
         "gap": "8px",
@@ -3963,10 +3946,10 @@
       "tag": "i",
       "text": "",
       "position": {
-        "top": 423.921142578125,
-        "left": 330.656005859375,
-        "width": 18.67236328125,
-        "height": 29.078887939453125
+        "top": 452.99981689453125,
+        "left": 340,
+        "width": 0,
+        "height": 0
       },
       "computedStyles": {
         "margin": "0px",
@@ -3985,9 +3968,9 @@
         "borderBottom": "0px none rgb(224, 224, 224)",
         "borderLeft": "0px none rgb(224, 224, 224)",
         "fontSize": "24px",
-        "fontFamily": "\"Font Awesome 6 Free\"",
-        "fontWeight": "687.75",
-        "lineHeight": "29.0899px",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "36px",
         "color": "rgb(224, 224, 224)",
         "backgroundColor": "rgba(0, 0, 0, 0)",
         "display": "block",
@@ -3996,8 +3979,8 @@
         "right": "auto",
         "bottom": "auto",
         "left": "auto",
-        "width": "18.6719px",
-        "height": "29.0781px",
+        "width": "0px",
+        "height": "0px",
         "flex": "0 1 auto",
         "flexDirection": "row",
         "gap": "normal",
@@ -4051,10 +4034,10 @@
       "tag": "span",
       "text": "Email",
       "position": {
-        "top": 461.000244140625,
-        "left": 323.3432922363281,
-        "width": 33.297760009765625,
-        "height": 18.00048828125
+        "top": 460.99993896484375,
+        "left": 323.343505859375,
+        "width": 33.29736328125,
+        "height": 18.000244140625
       },
       "computedStyles": {
         "margin": "0px",
@@ -4141,10 +4124,10 @@
       "tag": "a",
       "text": "WhatsApp",
       "position": {
-        "top": 413.9208679199219,
-        "left": 411.9986877441406,
-        "width": 96.00259399414062,
-        "height": 75.08016967773438
+        "top": 442.9996337890625,
+        "left": 411.999267578125,
+        "width": 96.00146484375,
+        "height": 46.000732421875
       },
       "computedStyles": {
         "margin": "0px",
@@ -4175,7 +4158,7 @@
         "bottom": "auto",
         "left": "auto",
         "width": "96px",
-        "height": "75.0781px",
+        "height": "46px",
         "flex": "0 1 auto",
         "flexDirection": "column",
         "gap": "8px",
@@ -4281,10 +4264,10 @@
       "tag": "i",
       "text": "",
       "position": {
-        "top": 423.921142578125,
-        "left": 450.6559753417969,
-        "width": 18.672393798828125,
-        "height": 29.078887939453125
+        "top": 452.99981689453125,
+        "left": 460,
+        "width": 0,
+        "height": 0
       },
       "computedStyles": {
         "margin": "0px",
@@ -4303,9 +4286,9 @@
         "borderBottom": "0px none rgb(224, 224, 224)",
         "borderLeft": "0px none rgb(224, 224, 224)",
         "fontSize": "24px",
-        "fontFamily": "\"Font Awesome 6 Brands\"",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
         "fontWeight": "400",
-        "lineHeight": "29.0899px",
+        "lineHeight": "36px",
         "color": "rgb(224, 224, 224)",
         "backgroundColor": "rgba(0, 0, 0, 0)",
         "display": "block",
@@ -4314,8 +4297,8 @@
         "right": "auto",
         "bottom": "auto",
         "left": "auto",
-        "width": "18.6719px",
-        "height": "29.0781px",
+        "width": "0px",
+        "height": "0px",
         "flex": "0 1 auto",
         "flexDirection": "row",
         "gap": "normal",
@@ -4369,10 +4352,10 @@
       "tag": "span",
       "text": "WhatsApp",
       "position": {
-        "top": 461.000244140625,
-        "left": 429.3741455078125,
-        "width": 61.236053466796875,
-        "height": 18.00048828125
+        "top": 460.99993896484375,
+        "left": 429.3745422363281,
+        "width": 61.23529052734375,
+        "height": 18.000244140625
       },
       "computedStyles": {
         "margin": "0px",
