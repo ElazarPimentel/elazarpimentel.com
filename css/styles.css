@@ -1,6 +1,6 @@
 :root {
   /* Primary Colors */
-  --color-background: #000000;
+  --color-background: #000000; 
   --color-surface: #111111;
   --color-surface-elevated: #222222;
   
@@ -271,13 +271,17 @@ body {
 }
 
 body {
-  padding: var(--space-sm);
+  padding: 0 var(--space-sm) var(--space-sm) var(--space-sm);
   display: flex;
   flex-direction: column;
-  gap: var(--space-md);
+  gap: 0;
   min-height: 100vh;
   font-weight: 400;
   font-style: normal;
+}
+
+.container-main + .container-main {
+  margin-top: var(--space-md);
 }
 
 /* Header and its components */
@@ -611,19 +615,21 @@ main > * {
 }
 
 /* Add subtle loading state for better perceived performance */
-.container-main {
+/*.container-main {
   animation: fadeInUp 0.8s ease-out both;
 }
 
 header .container-main {
   animation-delay: 0s;
-}
+}*/
 
 main.container-main {
+  animation: fadeInUp 0.8s ease-out both;
   animation-delay: 0.2s;
 }
 
 footer.container-main {
+  animation: fadeInUp 0.8s ease-out both;
   animation-delay: 0.4s;
 }
 
@@ -639,13 +645,13 @@ a, button, input, textarea {
 }
 
 /* Enhanced hover feedback for clickable elements */
-a:not(.contact-link):not(.lang-button) {
+a:not(.contact-link):not(.lang-button):not(.skip-link) {
   color: var(--color-text-secondary);
   text-decoration: none;
   position: relative;
 }
 
-a:not(.contact-link):not(.lang-button):hover {
+a:not(.contact-link):not(.lang-button):not(.skip-link):hover {
   color: var(--color-accent);
 }
 

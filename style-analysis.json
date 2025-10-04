@@ -1,0 +1,4874 @@
+{
+  "timestamp": "2025-10-04T03:11:04.238Z",
+  "url": "http://localhost:8000/es/",
+  "viewportInfo": {
+    "scrollY": 0,
+    "bodyOffsetTop": 0,
+    "bodyClientTop": 0,
+    "htmlMargin": "0px",
+    "bodyMargin": "0px"
+  },
+  "totalElements": 54,
+  "elements": [
+    {
+      "selector": "html",
+      "tag": "html",
+      "text": "Elazar Pimentel - Gestión de Programas, Proyectos ",
+      "position": {
+        "top": 0,
+        "left": 0,
+        "width": 800,
+        "height": 648
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "borderTop": "0px none rgb(0, 0, 0)",
+        "borderRight": "0px none rgb(0, 0, 0)",
+        "borderBottom": "0px none rgb(0, 0, 0)",
+        "borderLeft": "0px none rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontFamily": "\"Times New Roman\"",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "800px",
+        "height": "648px",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": ":root",
+          "styles": {},
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "html",
+          "styles": {
+            "font-size": "16px",
+            "scroll-behavior": "smooth",
+            "-webkit-tap-highlight-color": "transparent",
+            "text-size-adjust": "100%"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": ":root",
+          "styles": {},
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "head",
+      "tag": "head",
+      "text": "Elazar Pimentel - Gestión de Programas, Proyectos ",
+      "position": {
+        "top": 0,
+        "left": 0,
+        "width": 0,
+        "height": 0
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "borderTop": "0px none rgb(0, 0, 0)",
+        "borderRight": "0px none rgb(0, 0, 0)",
+        "borderBottom": "0px none rgb(0, 0, 0)",
+        "borderLeft": "0px none rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontFamily": "\"Times New Roman\"",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "none",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "auto",
+        "height": "auto",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "meta",
+      "tag": "meta",
+      "text": "",
+      "position": {
+        "top": 0,
+        "left": 0,
+        "width": 0,
+        "height": 0
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "borderTop": "0px none rgb(0, 0, 0)",
+        "borderRight": "0px none rgb(0, 0, 0)",
+        "borderBottom": "0px none rgb(0, 0, 0)",
+        "borderLeft": "0px none rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontFamily": "\"Times New Roman\"",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "none",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "auto",
+        "height": "auto",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "meta",
+      "tag": "meta",
+      "text": "",
+      "position": {
+        "top": 0,
+        "left": 0,
+        "width": 0,
+        "height": 0
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "borderTop": "0px none rgb(0, 0, 0)",
+        "borderRight": "0px none rgb(0, 0, 0)",
+        "borderBottom": "0px none rgb(0, 0, 0)",
+        "borderLeft": "0px none rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontFamily": "\"Times New Roman\"",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "none",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "auto",
+        "height": "auto",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "title",
+      "tag": "title",
+      "text": "Elazar Pimentel - Gestión de Programas, Proyectos ",
+      "position": {
+        "top": 0,
+        "left": 0,
+        "width": 0,
+        "height": 0
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "borderTop": "0px none rgb(0, 0, 0)",
+        "borderRight": "0px none rgb(0, 0, 0)",
+        "borderBottom": "0px none rgb(0, 0, 0)",
+        "borderLeft": "0px none rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontFamily": "\"Times New Roman\"",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "none",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "auto",
+        "height": "auto",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "meta",
+      "tag": "meta",
+      "text": "",
+      "position": {
+        "top": 0,
+        "left": 0,
+        "width": 0,
+        "height": 0
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "borderTop": "0px none rgb(0, 0, 0)",
+        "borderRight": "0px none rgb(0, 0, 0)",
+        "borderBottom": "0px none rgb(0, 0, 0)",
+        "borderLeft": "0px none rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontFamily": "\"Times New Roman\"",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "none",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "auto",
+        "height": "auto",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "meta",
+      "tag": "meta",
+      "text": "",
+      "position": {
+        "top": 0,
+        "left": 0,
+        "width": 0,
+        "height": 0
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "borderTop": "0px none rgb(0, 0, 0)",
+        "borderRight": "0px none rgb(0, 0, 0)",
+        "borderBottom": "0px none rgb(0, 0, 0)",
+        "borderLeft": "0px none rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontFamily": "\"Times New Roman\"",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "none",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "auto",
+        "height": "auto",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "meta",
+      "tag": "meta",
+      "text": "",
+      "position": {
+        "top": 0,
+        "left": 0,
+        "width": 0,
+        "height": 0
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "borderTop": "0px none rgb(0, 0, 0)",
+        "borderRight": "0px none rgb(0, 0, 0)",
+        "borderBottom": "0px none rgb(0, 0, 0)",
+        "borderLeft": "0px none rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontFamily": "\"Times New Roman\"",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "none",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "auto",
+        "height": "auto",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "link",
+      "tag": "link",
+      "text": "",
+      "position": {
+        "top": 0,
+        "left": 0,
+        "width": 0,
+        "height": 0
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "borderTop": "0px none rgb(0, 0, 0)",
+        "borderRight": "0px none rgb(0, 0, 0)",
+        "borderBottom": "0px none rgb(0, 0, 0)",
+        "borderLeft": "0px none rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontFamily": "\"Times New Roman\"",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "none",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "auto",
+        "height": "auto",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "link",
+      "tag": "link",
+      "text": "",
+      "position": {
+        "top": 0,
+        "left": 0,
+        "width": 0,
+        "height": 0
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "borderTop": "0px none rgb(0, 0, 0)",
+        "borderRight": "0px none rgb(0, 0, 0)",
+        "borderBottom": "0px none rgb(0, 0, 0)",
+        "borderLeft": "0px none rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontFamily": "\"Times New Roman\"",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "none",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "auto",
+        "height": "auto",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "link",
+      "tag": "link",
+      "text": "",
+      "position": {
+        "top": 0,
+        "left": 0,
+        "width": 0,
+        "height": 0
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "borderTop": "0px none rgb(0, 0, 0)",
+        "borderRight": "0px none rgb(0, 0, 0)",
+        "borderBottom": "0px none rgb(0, 0, 0)",
+        "borderLeft": "0px none rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontFamily": "\"Times New Roman\"",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "none",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "auto",
+        "height": "auto",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "link",
+      "tag": "link",
+      "text": "",
+      "position": {
+        "top": 0,
+        "left": 0,
+        "width": 0,
+        "height": 0
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "borderTop": "0px none rgb(0, 0, 0)",
+        "borderRight": "0px none rgb(0, 0, 0)",
+        "borderBottom": "0px none rgb(0, 0, 0)",
+        "borderLeft": "0px none rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontFamily": "\"Times New Roman\"",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "none",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "auto",
+        "height": "auto",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "link",
+      "tag": "link",
+      "text": "",
+      "position": {
+        "top": 0,
+        "left": 0,
+        "width": 0,
+        "height": 0
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "borderTop": "0px none rgb(0, 0, 0)",
+        "borderRight": "0px none rgb(0, 0, 0)",
+        "borderBottom": "0px none rgb(0, 0, 0)",
+        "borderLeft": "0px none rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontFamily": "\"Times New Roman\"",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "none",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "auto",
+        "height": "auto",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "meta",
+      "tag": "meta",
+      "text": "",
+      "position": {
+        "top": 0,
+        "left": 0,
+        "width": 0,
+        "height": 0
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "borderTop": "0px none rgb(0, 0, 0)",
+        "borderRight": "0px none rgb(0, 0, 0)",
+        "borderBottom": "0px none rgb(0, 0, 0)",
+        "borderLeft": "0px none rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontFamily": "\"Times New Roman\"",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "none",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "auto",
+        "height": "auto",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "meta",
+      "tag": "meta",
+      "text": "",
+      "position": {
+        "top": 0,
+        "left": 0,
+        "width": 0,
+        "height": 0
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "borderTop": "0px none rgb(0, 0, 0)",
+        "borderRight": "0px none rgb(0, 0, 0)",
+        "borderBottom": "0px none rgb(0, 0, 0)",
+        "borderLeft": "0px none rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontFamily": "\"Times New Roman\"",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "none",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "auto",
+        "height": "auto",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "meta",
+      "tag": "meta",
+      "text": "",
+      "position": {
+        "top": 0,
+        "left": 0,
+        "width": 0,
+        "height": 0
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "borderTop": "0px none rgb(0, 0, 0)",
+        "borderRight": "0px none rgb(0, 0, 0)",
+        "borderBottom": "0px none rgb(0, 0, 0)",
+        "borderLeft": "0px none rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontFamily": "\"Times New Roman\"",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "none",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "auto",
+        "height": "auto",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "meta",
+      "tag": "meta",
+      "text": "",
+      "position": {
+        "top": 0,
+        "left": 0,
+        "width": 0,
+        "height": 0
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "borderTop": "0px none rgb(0, 0, 0)",
+        "borderRight": "0px none rgb(0, 0, 0)",
+        "borderBottom": "0px none rgb(0, 0, 0)",
+        "borderLeft": "0px none rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontFamily": "\"Times New Roman\"",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "none",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "auto",
+        "height": "auto",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "meta",
+      "tag": "meta",
+      "text": "",
+      "position": {
+        "top": 0,
+        "left": 0,
+        "width": 0,
+        "height": 0
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "borderTop": "0px none rgb(0, 0, 0)",
+        "borderRight": "0px none rgb(0, 0, 0)",
+        "borderBottom": "0px none rgb(0, 0, 0)",
+        "borderLeft": "0px none rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontFamily": "\"Times New Roman\"",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "none",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "auto",
+        "height": "auto",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "meta",
+      "tag": "meta",
+      "text": "",
+      "position": {
+        "top": 0,
+        "left": 0,
+        "width": 0,
+        "height": 0
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "borderTop": "0px none rgb(0, 0, 0)",
+        "borderRight": "0px none rgb(0, 0, 0)",
+        "borderBottom": "0px none rgb(0, 0, 0)",
+        "borderLeft": "0px none rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontFamily": "\"Times New Roman\"",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "none",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "auto",
+        "height": "auto",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "meta",
+      "tag": "meta",
+      "text": "",
+      "position": {
+        "top": 0,
+        "left": 0,
+        "width": 0,
+        "height": 0
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "borderTop": "0px none rgb(0, 0, 0)",
+        "borderRight": "0px none rgb(0, 0, 0)",
+        "borderBottom": "0px none rgb(0, 0, 0)",
+        "borderLeft": "0px none rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontFamily": "\"Times New Roman\"",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "none",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "auto",
+        "height": "auto",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "meta",
+      "tag": "meta",
+      "text": "",
+      "position": {
+        "top": 0,
+        "left": 0,
+        "width": 0,
+        "height": 0
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "borderTop": "0px none rgb(0, 0, 0)",
+        "borderRight": "0px none rgb(0, 0, 0)",
+        "borderBottom": "0px none rgb(0, 0, 0)",
+        "borderLeft": "0px none rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontFamily": "\"Times New Roman\"",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "none",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "auto",
+        "height": "auto",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "meta",
+      "tag": "meta",
+      "text": "",
+      "position": {
+        "top": 0,
+        "left": 0,
+        "width": 0,
+        "height": 0
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "borderTop": "0px none rgb(0, 0, 0)",
+        "borderRight": "0px none rgb(0, 0, 0)",
+        "borderBottom": "0px none rgb(0, 0, 0)",
+        "borderLeft": "0px none rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontFamily": "\"Times New Roman\"",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "none",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "auto",
+        "height": "auto",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "link",
+      "tag": "link",
+      "text": "",
+      "position": {
+        "top": 0,
+        "left": 0,
+        "width": 0,
+        "height": 0
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "borderTop": "0px none rgb(0, 0, 0)",
+        "borderRight": "0px none rgb(0, 0, 0)",
+        "borderBottom": "0px none rgb(0, 0, 0)",
+        "borderLeft": "0px none rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontFamily": "\"Times New Roman\"",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "none",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "auto",
+        "height": "auto",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "link",
+      "tag": "link",
+      "text": "",
+      "position": {
+        "top": 0,
+        "left": 0,
+        "width": 0,
+        "height": 0
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "borderTop": "0px none rgb(0, 0, 0)",
+        "borderRight": "0px none rgb(0, 0, 0)",
+        "borderBottom": "0px none rgb(0, 0, 0)",
+        "borderLeft": "0px none rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontFamily": "\"Times New Roman\"",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "none",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "auto",
+        "height": "auto",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "noscript",
+      "tag": "noscript",
+      "text": "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudfl",
+      "position": {
+        "top": 0,
+        "left": 0,
+        "width": 0,
+        "height": 0
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "borderTop": "0px none rgb(0, 0, 0)",
+        "borderRight": "0px none rgb(0, 0, 0)",
+        "borderBottom": "0px none rgb(0, 0, 0)",
+        "borderLeft": "0px none rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontFamily": "\"Times New Roman\"",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "inline",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "auto",
+        "height": "auto",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "script",
+      "tag": "script",
+      "text": "{\n      \"@context\": \"https://schema.org\",\n      \"@",
+      "position": {
+        "top": 0,
+        "left": 0,
+        "width": 0,
+        "height": 0
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(0, 0, 0)",
+        "borderTop": "0px none rgb(0, 0, 0)",
+        "borderRight": "0px none rgb(0, 0, 0)",
+        "borderBottom": "0px none rgb(0, 0, 0)",
+        "borderLeft": "0px none rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontFamily": "\"Times New Roman\"",
+        "fontWeight": "400",
+        "lineHeight": "normal",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "none",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "auto",
+        "height": "auto",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "body",
+      "tag": "body",
+      "text": "Ir al contenido principal\n\n    \n        \n         ",
+      "position": {
+        "top": 0,
+        "left": 0,
+        "width": 800,
+        "height": 648
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px 8px 8px",
+        "paddingTop": "0px",
+        "paddingRight": "8px",
+        "paddingBottom": "8px",
+        "paddingLeft": "8px",
+        "border": "0px none rgb(224, 224, 224)",
+        "borderTop": "0px none rgb(224, 224, 224)",
+        "borderRight": "0px none rgb(224, 224, 224)",
+        "borderBottom": "0px none rgb(224, 224, 224)",
+        "borderLeft": "0px none rgb(224, 224, 224)",
+        "fontSize": "16px",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(224, 224, 224)",
+        "backgroundColor": "rgb(0, 0, 0)",
+        "display": "flex",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "800px",
+        "height": "648px",
+        "flex": "0 1 auto",
+        "flexDirection": "column",
+        "gap": "0px",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "body",
+          "styles": {
+            "transform": "translateZ(0px)",
+            "text-rendering": "optimizelegibility",
+            "font-feature-settings": "\"liga\", \"kern\""
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "body",
+          "styles": {
+            "background-color": "var(--color-background)",
+            "color": "var(--color-text-secondary)",
+            "font-family": "var(--font-family-primary)",
+            "font-size": "var(--font-size-base)",
+            "line-height": "var(--line-height-normal)",
+            "-webkit-font-smoothing": "antialiased",
+            "text-rendering": "optimizelegibility"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "body",
+          "styles": {
+            "padding-top": "",
+            "padding-right": "",
+            "padding-bottom": "",
+            "padding-left": "",
+            "display": "flex",
+            "flex-direction": "column",
+            "row-gap": "0px",
+            "column-gap": "0px",
+            "min-height": "100vh",
+            "font-weight": "400",
+            "font-style": "normal"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "a.skip-link",
+      "tag": "a",
+      "text": "Ir al contenido principal",
+      "position": {
+        "top": -600,
+        "left": 16,
+        "width": 221.15625,
+        "height": 40
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "8px 16px",
+        "paddingTop": "8px",
+        "paddingRight": "16px",
+        "paddingBottom": "8px",
+        "paddingLeft": "16px",
+        "border": "0px none rgb(0, 0, 0)",
+        "borderTop": "0px none rgb(0, 0, 0)",
+        "borderRight": "0px none rgb(0, 0, 0)",
+        "borderBottom": "0px none rgb(0, 0, 0)",
+        "borderLeft": "0px none rgb(0, 0, 0)",
+        "fontSize": "16px",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
+        "fontWeight": "500",
+        "lineHeight": "24px",
+        "color": "rgb(0, 0, 0)",
+        "backgroundColor": "rgb(74, 158, 255)",
+        "display": "block",
+        "position": "absolute",
+        "top": "-600px",
+        "right": "562.844px",
+        "bottom": "1208px",
+        "left": "16px",
+        "width": "221.156px",
+        "height": "40px",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": ".skip-link",
+          "styles": {
+            "position": "absolute",
+            "top": "-100vh",
+            "left": "1rem",
+            "z-index": "50",
+            "background-image": "",
+            "background-position-x": "",
+            "background-position-y": "",
+            "background-size": "",
+            "background-repeat": "",
+            "background-attachment": "",
+            "background-origin": "",
+            "background-clip": "",
+            "background-color": "",
+            "color": "var(--color-background)",
+            "padding-top": "0.5rem",
+            "padding-right": "1rem",
+            "padding-bottom": "0.5rem",
+            "padding-left": "1rem",
+            "text-decoration-line": "none",
+            "text-decoration-thickness": "initial",
+            "text-decoration-style": "initial",
+            "text-decoration-color": "initial",
+            "border-top-left-radius": "0.5rem",
+            "border-top-right-radius": "0.5rem",
+            "border-bottom-right-radius": "0.5rem",
+            "border-bottom-left-radius": "0.5rem",
+            "font-weight": "500",
+            "transition-behavior": "normal",
+            "transition-duration": "0.15s",
+            "transition-timing-function": "ease",
+            "transition-delay": "0s",
+            "transition-property": "top"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "a, button, input, textarea",
+          "styles": {
+            "transition-property": "",
+            "transition-duration": "",
+            "transition-timing-function": "",
+            "transition-delay": "",
+            "transition-behavior": ""
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "header.container-main.border-01",
+      "tag": "header",
+      "text": "Elazar Pimentel\n            \n            \n        ",
+      "position": {
+        "top": 0,
+        "left": 47.203125,
+        "width": 705.59375,
+        "height": 68
+      },
+      "computedStyles": {
+        "margin": "0px 39.2031px",
+        "marginTop": "0px",
+        "marginRight": "39.2031px",
+        "marginBottom": "0px",
+        "marginLeft": "39.2031px",
+        "padding": "8px",
+        "paddingTop": "8px",
+        "paddingRight": "8px",
+        "paddingBottom": "8px",
+        "paddingLeft": "8px",
+        "border": "2px solid rgb(64, 64, 64)",
+        "borderTop": "2px solid rgb(64, 64, 64)",
+        "borderRight": "2px solid rgb(64, 64, 64)",
+        "borderBottom": "2px solid rgb(64, 64, 64)",
+        "borderLeft": "2px solid rgb(64, 64, 64)",
+        "fontSize": "16px",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(224, 224, 224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "flex",
+        "position": "relative",
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px",
+        "width": "705.594px",
+        "height": "68px",
+        "flex": "0 0 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "center"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": ".container-main",
+          "styles": {
+            "width": "99%",
+            "margin-top": "0px",
+            "margin-right": "auto",
+            "margin-bottom": "0px",
+            "margin-left": "auto"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": ".border-01",
+          "styles": {
+            "border-top-color": "",
+            "border-top-style": "",
+            "border-top-width": "",
+            "border-right-color": "",
+            "border-right-style": "",
+            "border-right-width": "",
+            "border-bottom-color": "",
+            "border-bottom-style": "",
+            "border-bottom-width": "",
+            "border-left-color": "",
+            "border-left-style": "",
+            "border-left-width": "",
+            "border-image-source": "",
+            "border-image-slice": "",
+            "border-image-width": "",
+            "border-image-outset": "",
+            "border-image-repeat": "",
+            "border-top-left-radius": "",
+            "border-top-right-radius": "",
+            "border-bottom-right-radius": "",
+            "border-bottom-left-radius": ""
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "header",
+          "styles": {
+            "padding-top": "",
+            "padding-right": "",
+            "padding-bottom": "",
+            "padding-left": "",
+            "flex-grow": "0",
+            "flex-shrink": "0",
+            "flex-basis": "auto",
+            "display": "flex",
+            "align-items": "center"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": ".container-main",
+          "styles": {
+            "will-change": "transform",
+            "transform": "translateZ(0px)",
+            "backface-visibility": "hidden",
+            "backdrop-filter": "blur(10px)",
+            "background-image": "linear-gradient(145deg, rgba(0, 0, 0, 0.95) 0%, rgba(17, 17, 17, 0.85) 100%)",
+            "background-position-x": "initial",
+            "background-position-y": "initial",
+            "background-size": "initial",
+            "background-repeat": "initial",
+            "background-attachment": "initial",
+            "background-origin": "initial",
+            "background-clip": "initial",
+            "background-color": "initial",
+            "box-shadow": "rgba(0, 0, 0, 0.3) 0px 8px 32px, rgba(255, 255, 255, 0.05) 0px 1px 0px inset",
+            "position": "relative"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "div#header-container",
+      "tag": "div",
+      "text": "Elazar Pimentel\n            \n            \n        ",
+      "position": {
+        "top": 10,
+        "left": 57.203125,
+        "width": 685.59375,
+        "height": 48
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(224, 224, 224)",
+        "borderTop": "0px none rgb(224, 224, 224)",
+        "borderRight": "0px none rgb(224, 224, 224)",
+        "borderBottom": "0px none rgb(224, 224, 224)",
+        "borderLeft": "0px none rgb(224, 224, 224)",
+        "fontSize": "16px",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(224, 224, 224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "flex",
+        "position": "relative",
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px",
+        "width": "685.594px",
+        "height": "48px",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "space-between",
+        "alignItems": "center"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "#header-container",
+          "styles": {
+            "display": "flex",
+            "justify-content": "space-between",
+            "align-items": "center",
+            "width": "100%",
+            "position": "relative"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "div#logo-left",
+      "tag": "div",
+      "text": "Elazar Pimentel",
+      "position": {
+        "top": 14,
+        "left": 73.203125,
+        "width": 336.015625,
+        "height": 40
+      },
+      "computedStyles": {
+        "margin": "0px 0px 0px 16px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "16px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(224, 224, 224)",
+        "borderTop": "0px none rgb(224, 224, 224)",
+        "borderRight": "0px none rgb(224, 224, 224)",
+        "borderBottom": "0px none rgb(224, 224, 224)",
+        "borderLeft": "0px none rgb(224, 224, 224)",
+        "fontSize": "16px",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(224, 224, 224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "336.016px",
+        "height": "40px",
+        "flex": "0 0 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "#logo-left",
+          "styles": {
+            "flex-grow": "0",
+            "flex-shrink": "0",
+            "flex-basis": "auto",
+            "margin-left": "var(--space-md)"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "h2.logo-text",
+      "tag": "h2",
+      "text": "Elazar Pimentel",
+      "position": {
+        "top": 14,
+        "left": 73.203125,
+        "width": 336.015625,
+        "height": 40
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(255, 255, 255)",
+        "borderTop": "0px none rgb(255, 255, 255)",
+        "borderRight": "0px none rgb(255, 255, 255)",
+        "borderBottom": "0px none rgb(255, 255, 255)",
+        "borderLeft": "0px none rgb(255, 255, 255)",
+        "fontSize": "32px",
+        "fontFamily": "\"SF Mono\", Monaco, Inconsolata, \"Fira Code\", \"Droid Sans Mono\", monospace",
+        "fontWeight": "700",
+        "lineHeight": "40px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "relative",
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px",
+        "width": "336.016px",
+        "height": "40px",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": ".logo-text",
+          "styles": {
+            "font-family": "var(--font-family-mono)",
+            "font-size": "var(--font-size-3xl)",
+            "font-weight": "bold",
+            "letter-spacing": "0.1em",
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "color": "var(--color-text-primary)"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "h2",
+          "styles": {
+            "font-size": "var(--font-size-lg)",
+            "font-weight": "500",
+            "color": "var(--color-text-primary)",
+            "line-height": "var(--line-height-tight)"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": ".logo-text",
+          "styles": {
+            "transition-property": "",
+            "transition-duration": "",
+            "transition-timing-function": "",
+            "transition-delay": "",
+            "transition-behavior": "",
+            "cursor": "default",
+            "position": "relative"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "div#text-right",
+      "tag": "div",
+      "text": "Program, Project and Digital Product Management",
+      "position": {
+        "top": 10,
+        "left": 409.21875,
+        "width": 269.578125,
+        "height": 48
+      },
+      "computedStyles": {
+        "margin": "0px 64px 0px 0px",
+        "marginTop": "0px",
+        "marginRight": "64px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(224, 224, 224)",
+        "borderTop": "0px none rgb(224, 224, 224)",
+        "borderRight": "0px none rgb(224, 224, 224)",
+        "borderBottom": "0px none rgb(224, 224, 224)",
+        "borderLeft": "0px none rgb(224, 224, 224)",
+        "fontSize": "16px",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(224, 224, 224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "269.578px",
+        "height": "48px",
+        "flex": "1 1 0%",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "#text-right",
+          "styles": {
+            "flex-grow": "1",
+            "flex-shrink": "1",
+            "flex-basis": "0%",
+            "text-align": "right",
+            "margin-right": "4rem"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "p.title-01",
+      "tag": "p",
+      "text": "Program, Project and Digital Product Management",
+      "position": {
+        "top": 10,
+        "left": 409.21875,
+        "width": 269.578125,
+        "height": 48
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(224, 224, 224)",
+        "borderTop": "0px none rgb(224, 224, 224)",
+        "borderRight": "0px none rgb(224, 224, 224)",
+        "borderBottom": "0px none rgb(224, 224, 224)",
+        "borderLeft": "0px none rgb(224, 224, 224)",
+        "fontSize": "16px",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
+        "fontWeight": "300",
+        "lineHeight": "24px",
+        "color": "rgb(224, 224, 224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "269.578px",
+        "height": "48px",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": ".title-01",
+          "styles": {
+            "font-size": "var(--font-size-base)",
+            "font-weight": "300",
+            "font-style": "normal",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "text-align": "right",
+            "letter-spacing": "0.02em",
+            "color": "var(--color-text-secondary)"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "p",
+          "styles": {
+            "line-height": "var(--line-height-normal)",
+            "color": "var(--color-text-secondary)"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "nav.language-switcher",
+      "tag": "nav",
+      "text": "EN",
+      "position": {
+        "top": 38,
+        "left": 679.46875,
+        "width": 55.328125,
+        "height": 41
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(224, 224, 224)",
+        "borderTop": "0px none rgb(224, 224, 224)",
+        "borderRight": "0px none rgb(224, 224, 224)",
+        "borderBottom": "0px none rgb(224, 224, 224)",
+        "borderLeft": "0px none rgb(224, 224, 224)",
+        "fontSize": "16px",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(224, 224, 224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "absolute",
+        "top": "16px",
+        "right": "16px",
+        "bottom": "7px",
+        "left": "630.266px",
+        "width": "55.3281px",
+        "height": "41px",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": ".language-switcher",
+          "styles": {
+            "position": "absolute",
+            "top": "var(--space-md)",
+            "right": "var(--space-md)"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": ".language-switcher",
+          "styles": {
+            "animation-duration": "0.8s",
+            "animation-timing-function": "ease-out",
+            "animation-delay": "0.7s",
+            "animation-iteration-count": "1",
+            "animation-direction": "normal",
+            "animation-fill-mode": "both",
+            "animation-play-state": "running",
+            "animation-name": "fadeInUp",
+            "animation-timeline": "auto",
+            "animation-range-start": "normal",
+            "animation-range-end": "normal"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "a.lang-button",
+      "tag": "a",
+      "text": "EN",
+      "position": {
+        "top": 38,
+        "left": 679.46875,
+        "width": 55.328125,
+        "height": 41
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "8px 16px",
+        "paddingTop": "8px",
+        "paddingRight": "16px",
+        "paddingBottom": "8px",
+        "paddingLeft": "16px",
+        "border": "2px solid rgb(64, 64, 64)",
+        "borderTop": "2px solid rgb(64, 64, 64)",
+        "borderRight": "2px solid rgb(64, 64, 64)",
+        "borderBottom": "2px solid rgb(64, 64, 64)",
+        "borderLeft": "2px solid rgb(64, 64, 64)",
+        "fontSize": "14px",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
+        "fontWeight": "300",
+        "lineHeight": "21px",
+        "color": "rgb(224, 224, 224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "inline-block",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "55.3281px",
+        "height": "41px",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": ".lang-button",
+          "styles": {
+            "display": "inline-block",
+            "padding-top": "",
+            "padding-right": "",
+            "padding-bottom": "",
+            "padding-left": "",
+            "background-color": "transparent",
+            "color": "var(--color-text-secondary)",
+            "border-top-color": "",
+            "border-top-style": "",
+            "border-top-width": "",
+            "border-right-color": "",
+            "border-right-style": "",
+            "border-right-width": "",
+            "border-bottom-color": "",
+            "border-bottom-style": "",
+            "border-bottom-width": "",
+            "border-left-color": "",
+            "border-left-style": "",
+            "border-left-width": "",
+            "border-image-source": "",
+            "border-image-slice": "",
+            "border-image-width": "",
+            "border-image-outset": "",
+            "border-image-repeat": "",
+            "border-top-left-radius": "",
+            "border-top-right-radius": "",
+            "border-bottom-right-radius": "",
+            "border-bottom-left-radius": "",
+            "text-decoration-line": "none",
+            "text-decoration-thickness": "initial",
+            "text-decoration-style": "initial",
+            "text-decoration-color": "initial",
+            "font-weight": "300",
+            "font-size": "var(--font-size-sm)",
+            "transition-property": "",
+            "transition-duration": "",
+            "transition-timing-function": "",
+            "transition-delay": "",
+            "transition-behavior": ""
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "a, button, input, textarea",
+          "styles": {
+            "transition-property": "",
+            "transition-duration": "",
+            "transition-timing-function": "",
+            "transition-delay": "",
+            "transition-behavior": ""
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "main#main-content.container-main.border-01",
+      "tag": "main",
+      "text": "Gestión de Programas, Proyectos y Productos Digita",
+      "position": {
+        "top": 104,
+        "left": 47.203125,
+        "width": 705.59375,
+        "height": 422
+      },
+      "computedStyles": {
+        "margin": "16px 39.2031px 0px",
+        "marginTop": "16px",
+        "marginRight": "39.2031px",
+        "marginBottom": "0px",
+        "marginLeft": "39.2031px",
+        "padding": "32px",
+        "paddingTop": "32px",
+        "paddingRight": "32px",
+        "paddingBottom": "32px",
+        "paddingLeft": "32px",
+        "border": "2px solid rgb(64, 64, 64)",
+        "borderTop": "2px solid rgb(64, 64, 64)",
+        "borderRight": "2px solid rgb(64, 64, 64)",
+        "borderBottom": "2px solid rgb(64, 64, 64)",
+        "borderLeft": "2px solid rgb(64, 64, 64)",
+        "fontSize": "16px",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(224, 224, 224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "relative",
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px",
+        "width": "705.594px",
+        "height": "422px",
+        "flex": "1 1 0%",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": ".container-main",
+          "styles": {
+            "width": "99%",
+            "margin-top": "0px",
+            "margin-right": "auto",
+            "margin-bottom": "0px",
+            "margin-left": "auto"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": ".border-01",
+          "styles": {
+            "border-top-color": "",
+            "border-top-style": "",
+            "border-top-width": "",
+            "border-right-color": "",
+            "border-right-style": "",
+            "border-right-width": "",
+            "border-bottom-color": "",
+            "border-bottom-style": "",
+            "border-bottom-width": "",
+            "border-left-color": "",
+            "border-left-style": "",
+            "border-left-width": "",
+            "border-image-source": "",
+            "border-image-slice": "",
+            "border-image-width": "",
+            "border-image-outset": "",
+            "border-image-repeat": "",
+            "border-top-left-radius": "",
+            "border-top-right-radius": "",
+            "border-bottom-right-radius": "",
+            "border-bottom-left-radius": ""
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": ".container-main + .container-main",
+          "styles": {
+            "margin-top": "var(--space-md)"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "main",
+          "styles": {
+            "padding-top": "",
+            "padding-right": "",
+            "padding-bottom": "",
+            "padding-left": "",
+            "flex-grow": "1",
+            "flex-shrink": "1",
+            "flex-basis": "0%"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": ".container-main",
+          "styles": {
+            "will-change": "transform",
+            "transform": "translateZ(0px)",
+            "backface-visibility": "hidden",
+            "backdrop-filter": "blur(10px)",
+            "background-image": "linear-gradient(145deg, rgba(0, 0, 0, 0.95) 0%, rgba(17, 17, 17, 0.85) 100%)",
+            "background-position-x": "initial",
+            "background-position-y": "initial",
+            "background-size": "initial",
+            "background-repeat": "initial",
+            "background-attachment": "initial",
+            "background-origin": "initial",
+            "background-clip": "initial",
+            "background-color": "initial",
+            "box-shadow": "rgba(0, 0, 0, 0.3) 0px 8px 32px, rgba(255, 255, 255, 0.05) 0px 1px 0px inset",
+            "position": "relative"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "main.container-main",
+          "styles": {
+            "animation-duration": "0.8s",
+            "animation-timing-function": "ease-out",
+            "animation-iteration-count": "1",
+            "animation-direction": "normal",
+            "animation-fill-mode": "both",
+            "animation-play-state": "running",
+            "animation-name": "fadeInUp",
+            "animation-timeline": "auto",
+            "animation-range-start": "normal",
+            "animation-range-end": "normal",
+            "animation-delay": "0.2s"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "h1",
+      "tag": "h1",
+      "text": "Gestión de Programas, Proyectos y Productos Digita",
+      "position": {
+        "top": 138,
+        "left": 81.203125,
+        "width": 637.59375,
+        "height": 60
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(255, 255, 255)",
+        "borderTop": "0px none rgb(255, 255, 255)",
+        "borderRight": "0px none rgb(255, 255, 255)",
+        "borderBottom": "0px none rgb(255, 255, 255)",
+        "borderLeft": "0px none rgb(255, 255, 255)",
+        "fontSize": "24px",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
+        "fontWeight": "500",
+        "lineHeight": "30px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "637.594px",
+        "height": "60px",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "h1",
+          "styles": {
+            "font-size": "var(--font-size-xl)",
+            "font-weight": "500",
+            "color": "var(--color-text-primary)",
+            "line-height": "var(--line-height-tight)"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "main > *",
+          "styles": {
+            "animation-duration": "0.6s",
+            "animation-timing-function": "ease-out",
+            "animation-delay": "0s",
+            "animation-iteration-count": "1",
+            "animation-direction": "normal",
+            "animation-fill-mode": "forwards",
+            "animation-play-state": "running",
+            "animation-name": "fadeInUp",
+            "animation-timeline": "auto",
+            "animation-range-start": "normal",
+            "animation-range-end": "normal",
+            "will-change": "opacity, transform",
+            "transform": "translateZ(0px)"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "main > :nth-child(1)",
+          "styles": {
+            "animation-delay": "0.1s"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "main > *",
+          "styles": {
+            "animation-fill-mode": "forwards"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "p",
+      "tag": "p",
+      "text": "Más de 20 años de experiencia en roles ejecutivos ",
+      "position": {
+        "top": 198,
+        "left": 81.203125,
+        "width": 637.59375,
+        "height": 24
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(224, 224, 224)",
+        "borderTop": "0px none rgb(224, 224, 224)",
+        "borderRight": "0px none rgb(224, 224, 224)",
+        "borderBottom": "0px none rgb(224, 224, 224)",
+        "borderLeft": "0px none rgb(224, 224, 224)",
+        "fontSize": "16px",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(224, 224, 224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "637.594px",
+        "height": "24px",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "p",
+          "styles": {
+            "line-height": "var(--line-height-normal)",
+            "color": "var(--color-text-secondary)"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "main > *",
+          "styles": {
+            "animation-duration": "0.6s",
+            "animation-timing-function": "ease-out",
+            "animation-delay": "0s",
+            "animation-iteration-count": "1",
+            "animation-direction": "normal",
+            "animation-fill-mode": "forwards",
+            "animation-play-state": "running",
+            "animation-name": "fadeInUp",
+            "animation-timeline": "auto",
+            "animation-range-start": "normal",
+            "animation-range-end": "normal",
+            "will-change": "opacity, transform",
+            "transform": "translateZ(0px)"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "main > :nth-child(2)",
+          "styles": {
+            "animation-delay": "0.2s"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "main > *",
+          "styles": {
+            "animation-fill-mode": "forwards"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "p",
+      "tag": "p",
+      "text": "Administro proyectos aplicando PMBOK, SAFe y Water",
+      "position": {
+        "top": 222,
+        "left": 81.203125,
+        "width": 637.59375,
+        "height": 72
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(224, 224, 224)",
+        "borderTop": "0px none rgb(224, 224, 224)",
+        "borderRight": "0px none rgb(224, 224, 224)",
+        "borderBottom": "0px none rgb(224, 224, 224)",
+        "borderLeft": "0px none rgb(224, 224, 224)",
+        "fontSize": "16px",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(224, 224, 224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "637.594px",
+        "height": "72px",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "p",
+          "styles": {
+            "line-height": "var(--line-height-normal)",
+            "color": "var(--color-text-secondary)"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "main > *",
+          "styles": {
+            "animation-duration": "0.6s",
+            "animation-timing-function": "ease-out",
+            "animation-delay": "0s",
+            "animation-iteration-count": "1",
+            "animation-direction": "normal",
+            "animation-fill-mode": "forwards",
+            "animation-play-state": "running",
+            "animation-name": "fadeInUp",
+            "animation-timeline": "auto",
+            "animation-range-start": "normal",
+            "animation-range-end": "normal",
+            "will-change": "opacity, transform",
+            "transform": "translateZ(0px)"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "main > :nth-child(3)",
+          "styles": {
+            "animation-delay": "0.3s"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "main > *",
+          "styles": {
+            "animation-fill-mode": "forwards"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "p",
+      "tag": "p",
+      "text": "En Productos Digitales actúo como Product Owner ex",
+      "position": {
+        "top": 294,
+        "left": 81.203125,
+        "width": 637.59375,
+        "height": 72
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(224, 224, 224)",
+        "borderTop": "0px none rgb(224, 224, 224)",
+        "borderRight": "0px none rgb(224, 224, 224)",
+        "borderBottom": "0px none rgb(224, 224, 224)",
+        "borderLeft": "0px none rgb(224, 224, 224)",
+        "fontSize": "16px",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(224, 224, 224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "637.594px",
+        "height": "72px",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "p",
+          "styles": {
+            "line-height": "var(--line-height-normal)",
+            "color": "var(--color-text-secondary)"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "main > *",
+          "styles": {
+            "animation-duration": "0.6s",
+            "animation-timing-function": "ease-out",
+            "animation-delay": "0s",
+            "animation-iteration-count": "1",
+            "animation-direction": "normal",
+            "animation-fill-mode": "forwards",
+            "animation-play-state": "running",
+            "animation-name": "fadeInUp",
+            "animation-timeline": "auto",
+            "animation-range-start": "normal",
+            "animation-range-end": "normal",
+            "will-change": "opacity, transform",
+            "transform": "translateZ(0px)"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "main > :nth-child(4)",
+          "styles": {
+            "animation-delay": "0.4s"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "main > *",
+          "styles": {
+            "animation-fill-mode": "forwards"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "section.contact-section",
+      "tag": "section",
+      "text": "Contacto\n            \n                \n           ",
+      "position": {
+        "top": 398,
+        "left": 81.203125,
+        "width": 637.59375,
+        "height": 62
+      },
+      "computedStyles": {
+        "margin": "32px 0px",
+        "marginTop": "32px",
+        "marginRight": "0px",
+        "marginBottom": "32px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(224, 224, 224)",
+        "borderTop": "0px none rgb(224, 224, 224)",
+        "borderRight": "0px none rgb(224, 224, 224)",
+        "borderBottom": "0px none rgb(224, 224, 224)",
+        "borderLeft": "0px none rgb(224, 224, 224)",
+        "fontSize": "16px",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(224, 224, 224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "637.594px",
+        "height": "62px",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": ".contact-section",
+          "styles": {
+            "margin-top": "",
+            "margin-right": "",
+            "margin-bottom": "",
+            "margin-left": ""
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "main > *",
+          "styles": {
+            "animation-duration": "0.6s",
+            "animation-timing-function": "ease-out",
+            "animation-delay": "0s",
+            "animation-iteration-count": "1",
+            "animation-direction": "normal",
+            "animation-fill-mode": "forwards",
+            "animation-play-state": "running",
+            "animation-name": "fadeInUp",
+            "animation-timeline": "auto",
+            "animation-range-start": "normal",
+            "animation-range-end": "normal",
+            "will-change": "opacity, transform",
+            "transform": "translateZ(0px)"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "main > :nth-child(5)",
+          "styles": {
+            "animation-delay": "0.5s"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "main > *",
+          "styles": {
+            "animation-fill-mode": "forwards"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "h2#contact-heading.visually-hidden",
+      "tag": "h2",
+      "text": "Contacto",
+      "position": {
+        "top": 397,
+        "left": 80.203125,
+        "width": 1,
+        "height": 1
+      },
+      "computedStyles": {
+        "margin": "-1px",
+        "marginTop": "-1px",
+        "marginRight": "-1px",
+        "marginBottom": "-1px",
+        "marginLeft": "-1px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(255, 255, 255)",
+        "borderTop": "0px none rgb(255, 255, 255)",
+        "borderRight": "0px none rgb(255, 255, 255)",
+        "borderBottom": "0px none rgb(255, 255, 255)",
+        "borderLeft": "0px none rgb(255, 255, 255)",
+        "fontSize": "18px",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
+        "fontWeight": "500",
+        "lineHeight": "22.5px",
+        "color": "rgb(255, 255, 255)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "absolute",
+        "top": "0px",
+        "right": "638.594px",
+        "bottom": "63px",
+        "left": "0px",
+        "width": "1px",
+        "height": "1px",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": ".visually-hidden",
+          "styles": {
+            "position": "absolute",
+            "width": "1px",
+            "height": "1px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px",
+            "margin-top": "-1px",
+            "margin-right": "-1px",
+            "margin-bottom": "-1px",
+            "margin-left": "-1px",
+            "overflow-x": "hidden",
+            "overflow-y": "hidden",
+            "clip": "rect(0px, 0px, 0px, 0px)",
+            "white-space-collapse": "collapse",
+            "text-wrap-mode": "nowrap",
+            "border-top-width": "0px",
+            "border-right-width": "0px",
+            "border-bottom-width": "0px",
+            "border-left-width": "0px",
+            "border-top-style": "initial",
+            "border-right-style": "initial",
+            "border-bottom-style": "initial",
+            "border-left-style": "initial",
+            "border-top-color": "initial",
+            "border-right-color": "initial",
+            "border-bottom-color": "initial",
+            "border-left-color": "initial",
+            "border-image-source": "initial",
+            "border-image-slice": "initial",
+            "border-image-width": "initial",
+            "border-image-outset": "initial",
+            "border-image-repeat": "initial"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "h2",
+          "styles": {
+            "font-size": "var(--font-size-lg)",
+            "font-weight": "500",
+            "color": "var(--color-text-primary)",
+            "line-height": "var(--line-height-tight)"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "div.contact-links",
+      "tag": "div",
+      "text": "Email\n                \n                \n          ",
+      "position": {
+        "top": 398,
+        "left": 81.203125,
+        "width": 637.59375,
+        "height": 62
+      },
+      "computedStyles": {
+        "margin": "16px 0px",
+        "marginTop": "16px",
+        "marginRight": "0px",
+        "marginBottom": "16px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(224, 224, 224)",
+        "borderTop": "0px none rgb(224, 224, 224)",
+        "borderRight": "0px none rgb(224, 224, 224)",
+        "borderBottom": "0px none rgb(224, 224, 224)",
+        "borderLeft": "0px none rgb(224, 224, 224)",
+        "fontSize": "16px",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(224, 224, 224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "flex",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "637.594px",
+        "height": "62px",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "24px",
+        "justifyContent": "center",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": ".contact-links",
+          "styles": {
+            "display": "flex",
+            "justify-content": "center",
+            "row-gap": "",
+            "column-gap": "",
+            "margin-top": "",
+            "margin-right": "",
+            "margin-bottom": "",
+            "margin-left": ""
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "a.contact-link.email-link",
+      "tag": "a",
+      "text": "Email",
+      "position": {
+        "top": 397.9997863769531,
+        "left": 291.3746643066406,
+        "width": 96.00064086914062,
+        "height": 62.00042724609375
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "16px",
+        "paddingTop": "16px",
+        "paddingRight": "16px",
+        "paddingBottom": "16px",
+        "paddingLeft": "16px",
+        "border": "2px solid rgb(64, 64, 64)",
+        "borderTop": "2px solid rgb(64, 64, 64)",
+        "borderRight": "2px solid rgb(64, 64, 64)",
+        "borderBottom": "2px solid rgb(64, 64, 64)",
+        "borderLeft": "2px solid rgb(64, 64, 64)",
+        "fontSize": "16px",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(224, 224, 224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "flex",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "96px",
+        "height": "62px",
+        "flex": "0 1 auto",
+        "flexDirection": "column",
+        "gap": "8px",
+        "justifyContent": "normal",
+        "alignItems": "center"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": ".contact-link",
+          "styles": {
+            "display": "flex",
+            "flex-direction": "column",
+            "align-items": "center",
+            "row-gap": "",
+            "column-gap": "",
+            "padding-top": "",
+            "padding-right": "",
+            "padding-bottom": "",
+            "padding-left": "",
+            "background-color": "transparent",
+            "border-top-color": "",
+            "border-top-style": "",
+            "border-top-width": "",
+            "border-right-color": "",
+            "border-right-style": "",
+            "border-right-width": "",
+            "border-bottom-color": "",
+            "border-bottom-style": "",
+            "border-bottom-width": "",
+            "border-left-color": "",
+            "border-left-style": "",
+            "border-left-width": "",
+            "border-image-source": "",
+            "border-image-slice": "",
+            "border-image-width": "",
+            "border-image-outset": "",
+            "border-image-repeat": "",
+            "border-top-left-radius": "",
+            "border-top-right-radius": "",
+            "border-bottom-right-radius": "",
+            "border-bottom-left-radius": "",
+            "text-decoration-line": "none",
+            "text-decoration-thickness": "initial",
+            "text-decoration-style": "initial",
+            "text-decoration-color": "initial",
+            "color": "var(--color-text-secondary)",
+            "transition-property": "",
+            "transition-duration": "",
+            "transition-timing-function": "",
+            "transition-delay": "",
+            "transition-behavior": "",
+            "min-width": "5rem",
+            "animation-duration": "5s",
+            "animation-timing-function": "ease-in-out",
+            "animation-delay": "0s",
+            "animation-iteration-count": "infinite",
+            "animation-direction": "normal",
+            "animation-fill-mode": "none",
+            "animation-play-state": "running",
+            "animation-name": "breathing",
+            "animation-timeline": "auto",
+            "animation-range-start": "normal",
+            "animation-range-end": "normal"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "a, button, input, textarea",
+          "styles": {
+            "transition-property": "",
+            "transition-duration": "",
+            "transition-timing-function": "",
+            "transition-delay": "",
+            "transition-behavior": ""
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "i.fas.fa-envelope",
+      "tag": "i",
+      "text": "",
+      "position": {
+        "top": 415.9999084472656,
+        "left": 339.375,
+        "width": 0,
+        "height": 0
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(224, 224, 224)",
+        "borderTop": "0px none rgb(224, 224, 224)",
+        "borderRight": "0px none rgb(224, 224, 224)",
+        "borderBottom": "0px none rgb(224, 224, 224)",
+        "borderLeft": "0px none rgb(224, 224, 224)",
+        "fontSize": "24px",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "36px",
+        "color": "rgb(224, 224, 224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "0px",
+        "height": "0px",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": ".contact-link i",
+          "styles": {
+            "transition-property": "",
+            "transition-duration": "",
+            "transition-timing-function": "",
+            "transition-delay": "",
+            "transition-behavior": ""
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": ".contact-link i",
+          "styles": {
+            "font-size": "1.5rem"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "span.contact-text",
+      "tag": "span",
+      "text": "Email",
+      "position": {
+        "top": 423.9999694824219,
+        "left": 322.7186279296875,
+        "width": 33.297119140625,
+        "height": 18.0001220703125
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(224, 224, 224)",
+        "borderTop": "0px none rgb(224, 224, 224)",
+        "borderRight": "0px none rgb(224, 224, 224)",
+        "borderBottom": "0px none rgb(224, 224, 224)",
+        "borderLeft": "0px none rgb(224, 224, 224)",
+        "fontSize": "12px",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
+        "fontWeight": "500",
+        "lineHeight": "18px",
+        "color": "rgb(224, 224, 224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "33.2969px",
+        "height": "18px",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": ".contact-text",
+          "styles": {
+            "transition-property": "",
+            "transition-duration": "",
+            "transition-timing-function": "",
+            "transition-delay": "",
+            "transition-behavior": "",
+            "opacity": "0.8"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": ".contact-text",
+          "styles": {
+            "font-size": "var(--font-size-xs)",
+            "font-weight": "500"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "a.contact-link.whatsapp-link",
+      "tag": "a",
+      "text": "WhatsApp",
+      "position": {
+        "top": 397.9997863769531,
+        "left": 411.3746643066406,
+        "width": 97.23504638671875,
+        "height": 62.00042724609375
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "16px",
+        "paddingTop": "16px",
+        "paddingRight": "16px",
+        "paddingBottom": "16px",
+        "paddingLeft": "16px",
+        "border": "2px solid rgb(64, 64, 64)",
+        "borderTop": "2px solid rgb(64, 64, 64)",
+        "borderRight": "2px solid rgb(64, 64, 64)",
+        "borderBottom": "2px solid rgb(64, 64, 64)",
+        "borderLeft": "2px solid rgb(64, 64, 64)",
+        "fontSize": "16px",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(224, 224, 224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "flex",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "97.2344px",
+        "height": "62px",
+        "flex": "0 1 auto",
+        "flexDirection": "column",
+        "gap": "8px",
+        "justifyContent": "normal",
+        "alignItems": "center"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": ".contact-link",
+          "styles": {
+            "display": "flex",
+            "flex-direction": "column",
+            "align-items": "center",
+            "row-gap": "",
+            "column-gap": "",
+            "padding-top": "",
+            "padding-right": "",
+            "padding-bottom": "",
+            "padding-left": "",
+            "background-color": "transparent",
+            "border-top-color": "",
+            "border-top-style": "",
+            "border-top-width": "",
+            "border-right-color": "",
+            "border-right-style": "",
+            "border-right-width": "",
+            "border-bottom-color": "",
+            "border-bottom-style": "",
+            "border-bottom-width": "",
+            "border-left-color": "",
+            "border-left-style": "",
+            "border-left-width": "",
+            "border-image-source": "",
+            "border-image-slice": "",
+            "border-image-width": "",
+            "border-image-outset": "",
+            "border-image-repeat": "",
+            "border-top-left-radius": "",
+            "border-top-right-radius": "",
+            "border-bottom-right-radius": "",
+            "border-bottom-left-radius": "",
+            "text-decoration-line": "none",
+            "text-decoration-thickness": "initial",
+            "text-decoration-style": "initial",
+            "text-decoration-color": "initial",
+            "color": "var(--color-text-secondary)",
+            "transition-property": "",
+            "transition-duration": "",
+            "transition-timing-function": "",
+            "transition-delay": "",
+            "transition-behavior": "",
+            "min-width": "5rem",
+            "animation-duration": "5s",
+            "animation-timing-function": "ease-in-out",
+            "animation-delay": "0s",
+            "animation-iteration-count": "infinite",
+            "animation-direction": "normal",
+            "animation-fill-mode": "none",
+            "animation-play-state": "running",
+            "animation-name": "breathing",
+            "animation-timeline": "auto",
+            "animation-range-start": "normal",
+            "animation-range-end": "normal"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "a, button, input, textarea",
+          "styles": {
+            "transition-property": "",
+            "transition-duration": "",
+            "transition-timing-function": "",
+            "transition-delay": "",
+            "transition-behavior": ""
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "i.fab.fa-whatsapp",
+      "tag": "i",
+      "text": "",
+      "position": {
+        "top": 415.9999084472656,
+        "left": 459.984375,
+        "width": 0,
+        "height": 0
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(224, 224, 224)",
+        "borderTop": "0px none rgb(224, 224, 224)",
+        "borderRight": "0px none rgb(224, 224, 224)",
+        "borderBottom": "0px none rgb(224, 224, 224)",
+        "borderLeft": "0px none rgb(224, 224, 224)",
+        "fontSize": "24px",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "36px",
+        "color": "rgb(224, 224, 224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "0px",
+        "height": "0px",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": ".contact-link i",
+          "styles": {
+            "transition-property": "",
+            "transition-duration": "",
+            "transition-timing-function": "",
+            "transition-delay": "",
+            "transition-behavior": ""
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": ".contact-link i",
+          "styles": {
+            "font-size": "1.5rem"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "span.contact-text",
+      "tag": "span",
+      "text": "WhatsApp",
+      "position": {
+        "top": 423.9999694824219,
+        "left": 429.3747863769531,
+        "width": 61.23480224609375,
+        "height": 18.0001220703125
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(224, 224, 224)",
+        "borderTop": "0px none rgb(224, 224, 224)",
+        "borderRight": "0px none rgb(224, 224, 224)",
+        "borderBottom": "0px none rgb(224, 224, 224)",
+        "borderLeft": "0px none rgb(224, 224, 224)",
+        "fontSize": "12px",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
+        "fontWeight": "500",
+        "lineHeight": "18px",
+        "color": "rgb(224, 224, 224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "61.2344px",
+        "height": "18px",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": ".contact-text",
+          "styles": {
+            "transition-property": "",
+            "transition-duration": "",
+            "transition-timing-function": "",
+            "transition-delay": "",
+            "transition-behavior": "",
+            "opacity": "0.8"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": ".contact-text",
+          "styles": {
+            "font-size": "var(--font-size-xs)",
+            "font-weight": "500"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "footer.container-main.border-01",
+      "tag": "footer",
+      "text": "© 2024 Elazar Pimentel. Todos los derechos reserva",
+      "position": {
+        "top": 542,
+        "left": 47.203125,
+        "width": 705.59375,
+        "height": 118
+      },
+      "computedStyles": {
+        "margin": "16px 39.2031px 0px",
+        "marginTop": "16px",
+        "marginRight": "39.2031px",
+        "marginBottom": "0px",
+        "marginLeft": "39.2031px",
+        "padding": "16px",
+        "paddingTop": "16px",
+        "paddingRight": "16px",
+        "paddingBottom": "16px",
+        "paddingLeft": "16px",
+        "border": "2px solid rgb(64, 64, 64)",
+        "borderTop": "2px solid rgb(64, 64, 64)",
+        "borderRight": "2px solid rgb(64, 64, 64)",
+        "borderBottom": "2px solid rgb(64, 64, 64)",
+        "borderLeft": "2px solid rgb(64, 64, 64)",
+        "fontSize": "16px",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(224, 224, 224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "flex",
+        "position": "relative",
+        "top": "0px",
+        "right": "0px",
+        "bottom": "0px",
+        "left": "0px",
+        "width": "705.594px",
+        "height": "118px",
+        "flex": "0 0 auto",
+        "flexDirection": "column",
+        "gap": "8px",
+        "justifyContent": "normal",
+        "alignItems": "center"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": ".container-main",
+          "styles": {
+            "width": "99%",
+            "margin-top": "0px",
+            "margin-right": "auto",
+            "margin-bottom": "0px",
+            "margin-left": "auto"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": ".border-01",
+          "styles": {
+            "border-top-color": "",
+            "border-top-style": "",
+            "border-top-width": "",
+            "border-right-color": "",
+            "border-right-style": "",
+            "border-right-width": "",
+            "border-bottom-color": "",
+            "border-bottom-style": "",
+            "border-bottom-width": "",
+            "border-left-color": "",
+            "border-left-style": "",
+            "border-left-width": "",
+            "border-image-source": "",
+            "border-image-slice": "",
+            "border-image-width": "",
+            "border-image-outset": "",
+            "border-image-repeat": "",
+            "border-top-left-radius": "",
+            "border-top-right-radius": "",
+            "border-bottom-right-radius": "",
+            "border-bottom-left-radius": ""
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": ".container-main + .container-main",
+          "styles": {
+            "margin-top": "var(--space-md)"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "footer",
+          "styles": {
+            "flex-grow": "0",
+            "flex-shrink": "0",
+            "flex-basis": "auto",
+            "padding-top": "",
+            "padding-right": "",
+            "padding-bottom": "",
+            "padding-left": "",
+            "display": "flex",
+            "flex-direction": "column",
+            "align-items": "center",
+            "row-gap": "",
+            "column-gap": "",
+            "text-align": "center"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": ".container-main",
+          "styles": {
+            "will-change": "transform",
+            "transform": "translateZ(0px)",
+            "backface-visibility": "hidden",
+            "backdrop-filter": "blur(10px)",
+            "background-image": "linear-gradient(145deg, rgba(0, 0, 0, 0.95) 0%, rgba(17, 17, 17, 0.85) 100%)",
+            "background-position-x": "initial",
+            "background-position-y": "initial",
+            "background-size": "initial",
+            "background-repeat": "initial",
+            "background-attachment": "initial",
+            "background-origin": "initial",
+            "background-clip": "initial",
+            "background-color": "initial",
+            "box-shadow": "rgba(0, 0, 0, 0.3) 0px 8px 32px, rgba(255, 255, 255, 0.05) 0px 1px 0px inset",
+            "position": "relative"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "footer.container-main",
+          "styles": {
+            "animation-duration": "0.8s",
+            "animation-timing-function": "ease-out",
+            "animation-iteration-count": "1",
+            "animation-direction": "normal",
+            "animation-fill-mode": "both",
+            "animation-play-state": "running",
+            "animation-name": "fadeInUp",
+            "animation-timeline": "auto",
+            "animation-range-start": "normal",
+            "animation-range-end": "normal",
+            "animation-delay": "0.4s"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "p",
+      "tag": "p",
+      "text": "© 2024 Elazar Pimentel. Todos los derechos reserva",
+      "position": {
+        "top": 560,
+        "left": 202.796875,
+        "width": 394.390625,
+        "height": 21
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(160, 160, 160)",
+        "borderTop": "0px none rgb(160, 160, 160)",
+        "borderRight": "0px none rgb(160, 160, 160)",
+        "borderBottom": "0px none rgb(160, 160, 160)",
+        "borderLeft": "0px none rgb(160, 160, 160)",
+        "fontSize": "14px",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "21px",
+        "color": "rgb(160, 160, 160)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "394.391px",
+        "height": "21px",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "p",
+          "styles": {
+            "line-height": "var(--line-height-normal)",
+            "color": "var(--color-text-secondary)"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "footer p",
+          "styles": {
+            "font-size": "var(--font-size-sm)",
+            "color": "var(--color-text-muted)"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "br",
+      "tag": "br",
+      "text": "",
+      "position": {
+        "top": 591,
+        "left": 400,
+        "width": 0,
+        "height": 19
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(224, 224, 224)",
+        "borderTop": "0px none rgb(224, 224, 224)",
+        "borderRight": "0px none rgb(224, 224, 224)",
+        "borderBottom": "0px none rgb(224, 224, 224)",
+        "borderLeft": "0px none rgb(224, 224, 224)",
+        "fontSize": "16px",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(224, 224, 224)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "auto",
+        "height": "auto",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    },
+    {
+      "selector": "p",
+      "tag": "p",
+      "text": "Thank you, Dr. Marie Maynard Daly & Engineer Mary ",
+      "position": {
+        "top": 621,
+        "left": 185.078125,
+        "width": 429.828125,
+        "height": 21
+      },
+      "computedStyles": {
+        "margin": "0px",
+        "marginTop": "0px",
+        "marginRight": "0px",
+        "marginBottom": "0px",
+        "marginLeft": "0px",
+        "padding": "0px",
+        "paddingTop": "0px",
+        "paddingRight": "0px",
+        "paddingBottom": "0px",
+        "paddingLeft": "0px",
+        "border": "0px none rgb(160, 160, 160)",
+        "borderTop": "0px none rgb(160, 160, 160)",
+        "borderRight": "0px none rgb(160, 160, 160)",
+        "borderBottom": "0px none rgb(160, 160, 160)",
+        "borderLeft": "0px none rgb(160, 160, 160)",
+        "fontSize": "14px",
+        "fontFamily": "system-ui, -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Oxygen, Ubuntu, Cantarell, sans-serif",
+        "fontWeight": "400",
+        "lineHeight": "21px",
+        "color": "rgb(160, 160, 160)",
+        "backgroundColor": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "static",
+        "top": "auto",
+        "right": "auto",
+        "bottom": "auto",
+        "left": "auto",
+        "width": "429.828px",
+        "height": "21px",
+        "flex": "0 1 auto",
+        "flexDirection": "row",
+        "gap": "normal",
+        "justifyContent": "normal",
+        "alignItems": "normal"
+      },
+      "matchedCSSRules": [
+        {
+          "selector": "*, ::before, ::after",
+          "styles": {
+            "box-sizing": "border-box"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "*",
+          "styles": {
+            "margin-top": "0px",
+            "margin-right": "0px",
+            "margin-bottom": "0px",
+            "margin-left": "0px",
+            "padding-top": "0px",
+            "padding-right": "0px",
+            "padding-bottom": "0px",
+            "padding-left": "0px"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "p",
+          "styles": {
+            "line-height": "var(--line-height-normal)",
+            "color": "var(--color-text-secondary)"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        },
+        {
+          "selector": "footer p",
+          "styles": {
+            "font-size": "var(--font-size-sm)",
+            "color": "var(--color-text-muted)"
+          },
+          "href": "http://localhost:8000/css/styles.css"
+        }
+      ]
+    }
+  ]
+}
