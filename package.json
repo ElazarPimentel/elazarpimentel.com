@@ -1,5 +1,8 @@
 {
 	"dependencies": {
 		"puppeteer": "^24.23.0"
+	},
+	"devDependencies": {
+		"purgecss": "^7.0.2"
 	}
 }
