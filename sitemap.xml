@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Spanish Pages -->
+  <url>
+    <loc>https://elazarpimentel.com/es/</loc>
+    <lastmod>2025-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://elazarpimentel.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://elazarpimentel.com/es/"/>
+  </url>
+
+  <url>
+    <loc>https://elazarpimentel.com/es/about-me.html</loc>
+    <lastmod>2025-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://elazarpimentel.com/en/about-me.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://elazarpimentel.com/es/about-me.html"/>
+  </url>
+
+  <url>
+    <loc>https://elazarpimentel.com/es/portfolio.html</loc>
+    <lastmod>2025-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://elazarpimentel.com/en/portfolio.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://elazarpimentel.com/es/portfolio.html"/>
+  </url>
+
+  <!-- English Pages -->
+  <url>
+    <loc>https://elazarpimentel.com/en/</loc>
+    <lastmod>2025-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://elazarpimentel.com/en/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://elazarpimentel.com/es/"/>
+  </url>
+
+  <url>
+    <loc>https://elazarpimentel.com/en/about-me.html</loc>
+    <lastmod>2025-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://elazarpimentel.com/en/about-me.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://elazarpimentel.com/es/about-me.html"/>
+  </url>
+
+  <url>
+    <loc>https://elazarpimentel.com/en/portfolio.html</loc>
+    <lastmod>2025-10-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://elazarpimentel.com/en/portfolio.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://elazarpimentel.com/es/portfolio.html"/>
+  </url>
+
+</urlset>

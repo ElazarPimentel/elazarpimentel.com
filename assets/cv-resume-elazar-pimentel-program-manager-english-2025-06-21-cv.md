@@ -1,16 +1,16 @@
 **Resume**
 
-| Elazar Pimentel Program & Product Manager | [Elazar.Pimentel@gmail.com](mailto:Elazar.Pimentel@gmail.com)   [LinkedIn](https://www.linkedin.com/in/elazarpimentel/)   [X](https://x.com/PimentelElazar)  |
+| Elazar Pimentel Program & Product Manager | [Elazar.Pimentel@gmail.com](mailto:Elazar.Pimentel@gmail.com)   [LinkedIn](https://www.linkedin.com/in/elazarpimentel/)   [X](https://x.com/PimentelElazar)   [GitHub](https://github.com/ElazarPimentel)  |
 | :---- | :---- |
 
 ## **Professional Summary**
 
-Technical Program & Project Manager with 20+ years bridging public and private sectors. Authored $480M public tender for smart-mobility platform. Strong foundation in IT infrastructure, cybersecurity, cloud and AI; expert in Agile/SAFe frameworks and cross-functional team leadership. Clinical background as registered nurse informs approach to healthcare-tech initiatives.
+Technical Program & Project Manager and Release Train Engineer with 20+ years bridging public and private sectors. Authored $480M public tender for smart-mobility platform. Strong foundation in IT infrastructure, cybersecurity, cloud and AI; expert in Agile/SAFe frameworks and cross-functional team leadership. Clinical background as registered nurse informs approach to healthcare-tech initiatives.
 
 ## **Core Competencies**
 
 * **Program & Project Leadership**: End-to-end delivery, PI planning, change management
-* **Agile/SAFe**: Scrum, Kanban, SAFe event facilitation, risk management
+* **Agile/SAFe/RTE**: Release Train Engineer, PI planning facilitation, ART coordination, Scrum, Kanban, risk management
 * **Stakeholder Management**: RFP/bid authoring, procurement cycles, multiregional coordination
 * **Technical Acumen**: IT infrastructure, networking, cybersecurity, cloud platforms (Azure/AWS), AI tools & frameworks
 * **Tools & Platforms**: Jira & Confluence (expert - daily management of multiple teams/projects, API integration, custom Next.js automation), program-tracking suites
