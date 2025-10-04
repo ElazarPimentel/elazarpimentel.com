@@ -1,0 +1,8 @@
+node_modules/
+style-analysis.json
+pnpm-lock.yaml
+package-lock.json
+.DS_Store
+*.log
+.cache/
+dist/
