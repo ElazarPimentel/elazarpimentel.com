@@ -1,4 +1,7 @@
 {
+	"scripts": {
+		"dev": "http-server -p 3098 -a 0.0.0.0"
+	},
 	"dependencies": {
 		"puppeteer": "^24.23.0"
 	},
