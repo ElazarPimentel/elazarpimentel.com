@@ -719,14 +719,66 @@ a {
   transition: all var(--transition-fast);
 }
 
+/* Certificate links - subtle sparkle effect */
+.certificate-links {
+  display: inline-block;
+  padding: var(--space-xs) var(--space-sm);
+  color: var(--color-accent);
+  text-decoration: none;
+  position: relative;
+  border-bottom: 1px solid var(--color-border-primary);
+  transition: all var(--transition-normal);
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    rgba(74, 158, 255, 0.1) 50%,
+    transparent 100%
+  );
+  background-size: 200% 100%;
+  background-position: 100% 0;
+}
+
+.certificate-links::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(74, 158, 255, 0.3),
+    transparent
+  );
+  animation: shimmer 3s infinite;
+}
+
+@keyframes shimmer {
+  0% {
+    left: -100%;
+  }
+  50%, 100% {
+    left: 100%;
+  }
+}
+
+.certificate-links:hover {
+  color: var(--color-text-primary);
+  border-bottom-color: var(--color-accent);
+  background-position: 0 0;
+  text-shadow: 0 0 8px rgba(74, 158, 255, 0.4);
+  transform: translateY(-1px);
+}
+
 /* Enhanced hover feedback for clickable elements */
-a:not(.contact-link):not(.lang-button):not(.skip-link) {
+a:not(.contact-link):not(.lang-button):not(.skip-link):not(.certificate-links):not(.nav-link) {
   color: var(--color-text-secondary);
   text-decoration: none;
   position: relative;
 }
 
-a:not(.contact-link):not(.lang-button):not(.skip-link):hover {
+a:not(.contact-link):not(.lang-button):not(.skip-link):not(.certificate-links):not(.nav-link):hover {
   color: var(--color-accent);
 }
 
