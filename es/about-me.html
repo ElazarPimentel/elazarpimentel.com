@@ -7,8 +7,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sobre Elazar Pimentel - Release Train Engineer, Program Manager y Desarrollador Full-Stack</title>
     <meta name="description" content="Resolvedor de problemas con 20+ años en liderazgo IT. Release Train Engineer, Program Manager y desarrollador full-stack. Redactó pliego $480M, lidera MovilBA, integra IA/ML. Enfermero profesional con expertise en tecnología clínica.">
-    <meta name="keywords" content="Elazar Pimentel, Release Train Engineer, Program Manager, SAFe RTE, Product Manager, Desarrollador Full-Stack, UADE, CoderHouse, experto Jira, integración IA, MovilBA, Ecbici, enfermero profesional, tecnología sanitaria">
     <meta name="author" content="Elazar Pimentel">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 
     <!-- Performance and resource hints -->
     <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
@@ -50,22 +53,20 @@
 
     <style>
         /* About Me page specific styles */
-        .section-middle {
-            & p {
-                line-height: 1.8;        
-                margin-bottom: 1.5rem;   
-                text-align: justify;     
-            }
+        .section-middle p {
+            line-height: 1.8;
+            margin-bottom: 1.5rem;
+            text-align: justify;
+        }
 
-            & h2 {
-                margin-top: 2rem;        
-                margin-bottom: 1rem;     
-            }
+        .section-middle h2 {
+            margin-top: 2rem;
+            margin-bottom: 1rem;
+        }
 
-            & ul {
-                margin-bottom: 1.5rem;    
-                text-align: left;         
-            }
+        .section-middle ul {
+            margin-bottom: 1.5rem;
+            text-align: left;
         }
     </style>
 
@@ -73,11 +74,65 @@
     {
       "@context": "https://schema.org",
       "@type": "Person",
+      "@id": "https://elazarpimentel.com/#person",
       "name": "Elazar Pimentel",
       "url": "https://elazarpimentel.com",
       "email": "elazar.pimentel@pensanta.com",
-      "jobTitle": "Program Manager, Project Manager, Product Manager",
-      "description": "Más de 20 años de experiencia en roles ejecutivos de IT"
+      "image": "https://elazarpimentel.com/assets/og-image.jpg",
+      "jobTitle": ["Release Train Engineer", "Program Manager", "Product Manager"],
+      "description": "Resolvedor de problemas con 20+ años en liderazgo IT. Release Train Engineer, Program Manager y desarrollador full-stack.",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Buenos Aires",
+        "addressCountry": "AR"
+      },
+      "knowsAbout": ["SAFe", "Agile", "Release Train Engineering", "Program Management", "Jira", "Confluence", "AI/ML", "LSTM", "Next.js", "React", "TypeScript", "Node.js", "Digital Transformation", "Healthcare Technology"],
+      "knowsLanguage": [
+        {"@type": "Language", "name": "Spanish"},
+        {"@type": "Language", "name": "English"}
+      ],
+      "alumniOf": [
+        {"@type": "Organization", "name": "Universidad Argentina de la Empresa"},
+        {"@type": "Organization", "name": "CoderHouse"}
+      ],
+      "hasCredential": [
+        {"@type": "EducationalOccupationalCredential", "name": "Certificación en Project Management UADE"},
+        {"@type": "EducationalOccupationalCredential", "name": "Atlassian Jira & Confluence"},
+        {"@type": "EducationalOccupationalCredential", "name": "Desarrollador Fullstack"},
+        {"@type": "EducationalOccupationalCredential", "name": "Coaching Profesional Axon"}
+      ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+54-9-11-3799-0312",
+        "contactType": "Professional Services",
+        "email": "elazar.pimentel@pensanta.com",
+        "areaServed": "AR"
+      },
+      "sameAs": [
+        "https://www.linkedin.com/in/elazarpimentel/",
+        "https://x.com/PimentelElazar",
+        "https://github.com/ElazarPimentel"
+      ]
+    }
+    </script>
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Inicio",
+          "item": "https://elazarpimentel.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Sobre Mí",
+          "item": "https://elazarpimentel.com/es/about-me.html"
+        }
+      ]
     }
     </script>
 </head>
@@ -103,6 +158,7 @@
         <section class="section-top">
             <nav role="navigation" aria-label="Navegación principal">
                 <a href="index.html" class="nav-link"><span>Inicio</span></a>
+                <a href="https://pensanta.com/es/portfolio/" target="_blank" class="nav-link"><span>Portfolio</span></a>
                 <a href="https://pensanta.com/" target="_blank" class="nav-link"><span>Mi Consultora</span></a>
             </nav>
         </section>

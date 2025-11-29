@@ -7,8 +7,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About Elazar Pimentel - Release Train Engineer, Program Manager & Full-Stack Developer</title>
     <meta name="description" content="Problem solver with 20+ years in IT leadership. Release Train Engineer, Program Manager, and full-stack developer. Wrote $480M tender, leads MovilBA transport system, integrates AI/ML. Registered nurse with clinical tech expertise.">
-    <meta name="keywords" content="Elazar Pimentel, Release Train Engineer, Program Manager, SAFe RTE, Product Manager, Full-Stack Developer, UADE, CoderHouse, Jira expert, AI integration, MovilBA, Ecbici, registered nurse, healthcare tech, Next.js, React, TypeScript, Node.js, Agile coach, SAFe PI Planning, digital transformation consultant, Buenos Aires Argentina, Pensanta, Atlassian specialist">
     <meta name="author" content="Elazar Pimentel">
+
+    <!-- Favicon -->
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 
     <!-- Performance and resource hints -->
     <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
@@ -47,22 +50,20 @@
 
     <style>
         /* About Me page specific styles */
-        .section-middle {
-            & p {
-                line-height: 1.8;        /* Interline spacing - adjust this value (1.5 to 2.0) */
-                margin-bottom: 1.5rem;    /* Space after paragraph - adjust this value */
-                text-align: justify;      /* Justified text */
-            }
+        .section-middle p {
+            line-height: 1.8;        /* Interline spacing - adjust this value (1.5 to 2.0) */
+            margin-bottom: 1.5rem;    /* Space after paragraph - adjust this value */
+            text-align: justify;      /* Justified text */
+        }
 
-            & h2 {
-                margin-top: 2rem;         /* Space before headings */
-                margin-bottom: 1rem;      /* Space after headings */
-            }
+        .section-middle h2 {
+            margin-top: 2rem;         /* Space before headings */
+            margin-bottom: 1rem;      /* Space after headings */
+        }
 
-            & ul {
-                margin-bottom: 1.5rem;    /* Space after lists */
-                text-align: left;         /* Keep lists left-aligned */
-            }
+        .section-middle ul {
+            margin-bottom: 1.5rem;    /* Space after lists */
+            text-align: left;         /* Keep lists left-aligned */
         }
     </style>
 
@@ -71,9 +72,11 @@
     {
       "@context": "https://schema.org",
       "@type": "Person",
+      "@id": "https://elazarpimentel.com/#person",
       "name": "Elazar Pimentel",
       "url": "https://elazarpimentel.com",
       "email": "elazar.pimentel@pensanta.com",
+      "image": "https://elazarpimentel.com/assets/og-image.jpg",
       "jobTitle": ["Release Train Engineer", "Program Manager", "Product Manager"],
       "description": "Problem solver with 20+ years in IT leadership. Release Train Engineer, Program Manager, and full-stack developer.",
       "address": {
@@ -82,6 +85,10 @@
         "addressCountry": "AR"
       },
       "knowsAbout": ["SAFe", "Agile", "Release Train Engineering", "Program Management", "Jira", "Confluence", "AI/ML", "LSTM", "Next.js", "React", "TypeScript", "Node.js", "Digital Transformation", "Healthcare Technology"],
+      "knowsLanguage": [
+        {"@type": "Language", "name": "English"},
+        {"@type": "Language", "name": "Spanish"}
+      ],
       "alumniOf": [
         {"@type": "Organization", "name": "Universidad Argentina de la Empresa"},
         {"@type": "Organization", "name": "CoderHouse"}
@@ -92,6 +99,13 @@
         {"@type": "EducationalOccupationalCredential", "name": "Full-Stack Development"},
         {"@type": "EducationalOccupationalCredential", "name": "Axon Professional Coaching"}
       ],
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "+54-9-11-3799-0312",
+        "contactType": "Professional Services",
+        "email": "elazar.pimentel@pensanta.com",
+        "areaServed": "AR"
+      },
       "sameAs": [
         "https://www.linkedin.com/in/elazarpimentel/",
         "https://x.com/PimentelElazar",
@@ -141,6 +155,7 @@
         <section class="section-top">
             <nav role="navigation" aria-label="Main navigation">
                 <a href="index.html" class="nav-link"><span>Home</span></a>
+                <a href="https://pensanta.com/en/portfolio/" target="_blank" class="nav-link"><span>Portfolio</span></a>
                 <a href="https://pensanta.com/" target="_blank" class="nav-link"><span>My Company</span></a>
             </nav>
         </section>
