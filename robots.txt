@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /assets/doNotScan/
 
 Sitemap: https://elazarpimentel.com/sitemap.xml

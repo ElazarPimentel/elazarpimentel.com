@@ -4,12 +4,12 @@
 
   <!-- Spanish Pages -->
   <url>
-    <loc>https://elazarpimentel.com/es/</loc>
-    <lastmod>2025-10-04</lastmod>
+    <loc>https://elazarpimentel.com/</loc>
+    <lastmod>2025-11-29</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://elazarpimentel.com/en/"/>
-    <xhtml:link rel="alternate" hreflang="es" href="https://elazarpimentel.com/es/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://elazarpimentel.com/"/>
   </url>
 
   <url>
@@ -56,6 +56,44 @@
     <priority>0.8</priority>
     <xhtml:link rel="alternate" hreflang="en" href="https://elazarpimentel.com/en/portfolio.html"/>
     <xhtml:link rel="alternate" hreflang="es" href="https://elazarpimentel.com/es/portfolio.html"/>
+  </url>
+
+  <!-- Tools Pages -->
+  <url>
+    <loc>https://elazarpimentel.com/en/tools/</loc>
+    <lastmod>2025-11-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://elazarpimentel.com/en/tools/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://elazarpimentel.com/es/tools/"/>
+  </url>
+
+  <url>
+    <loc>https://elazarpimentel.com/es/tools/</loc>
+    <lastmod>2025-11-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://elazarpimentel.com/en/tools/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://elazarpimentel.com/es/tools/"/>
+  </url>
+
+  <!-- AIQL Tool Pages -->
+  <url>
+    <loc>https://elazarpimentel.com/en/tools/aiql/</loc>
+    <lastmod>2025-11-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://elazarpimentel.com/en/tools/aiql/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://elazarpimentel.com/es/tools/aiql/"/>
+  </url>
+
+  <url>
+    <loc>https://elazarpimentel.com/es/tools/aiql/</loc>
+    <lastmod>2025-11-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://elazarpimentel.com/en/tools/aiql/"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://elazarpimentel.com/es/tools/aiql/"/>
   </url>
 
 </urlset>
