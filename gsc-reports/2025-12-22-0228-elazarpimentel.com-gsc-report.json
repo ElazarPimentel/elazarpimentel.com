@@ -1,9 +1,9 @@
 {
   "site_url": "sc-domain:elazarpimentel.com",
-  "generated_at": "2025-12-20T21:12:25.922146",
+  "generated_at": "2025-12-22T02:28:44.836229",
   "period": {
-    "start": "2025-11-22",
-    "end": "2025-12-20",
+    "start": "2025-11-24",
+    "end": "2025-12-22",
     "days": 28
   },
   "data": {
@@ -222,5 +222,13 @@
     "average_ctr_28d": 0,
     "total_queries": 0,
     "total_pages": 6
-  }
+  },
+  "warnings": [
+    {
+      "type": "GUESSED_FOLDER_MAPPING",
+      "message": "TODO: Add site URL to package.json \"homepage\" field or .env SITE_URL variable to confirm correct folder mapping",
+      "expected_url": "sc-domain:elazarpimentel.com",
+      "folder_path": "/home/rob/Documents/work/pensanta/websites/elazarpimentel-com"
+    }
+  ]
 }

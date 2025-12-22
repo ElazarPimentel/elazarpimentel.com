@@ -7,6 +7,8 @@
         body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; max-width: 1200px; margin: 0 auto; padding: 20px; background: #121212; color: #fff; }
         h1 { color: #4CAF50; }
         h2 { color: #81C784; margin-top: 30px; }
+        .warning { background: #ffeb3b; color: #000; padding: 15px; border-radius: 8px; margin: 20px 0; border-left: 5px solid #ff9800; }
+        .warning h3 { margin-top: 0; color: #ff6f00; }
         .summary { background: #1e1e1e; padding: 20px; border-radius: 8px; margin: 20px 0; }
         .metric { display: inline-block; margin: 10px 20px 10px 0; }
         .metric-value { font-size: 32px; font-weight: bold; color: #4CAF50; }
@@ -21,24 +23,29 @@
 <body>
     <h1>🔍 Google Search Console Report</h1>
     <p><strong>sc-domain:elazarpimentel.com</strong></p>
-    <p class="timestamp">Generated: 2025-12-20T21:12:25.922146</p>
+    <p class="timestamp">Generated: 2025-12-22T02:28:44.836229</p>
+
+    <div class="warning">
+        <h3>⚠️ TODO: Configuration Required</h3>
+        <p><strong>GUESSED_FOLDER_MAPPING:</strong> TODO: Add site URL to package.json "homepage" field or .env SITE_URL variable to confirm correct folder mapping</p>
+    </div>
 
     <div class="summary">
         <h2>📊 Summary (Last 28 Days)</h2>
         <div class="metric">
-            <div class="metric-value">0</div>
+            <div class="metric-value">{summary['total_clicks_28d']:,}</div>
             <div class="metric-label">Total Clicks</div>
         </div>
         <div class="metric">
-            <div class="metric-value">0</div>
+            <div class="metric-value">{summary['total_impressions_28d']:,}</div>
             <div class="metric-label">Total Impressions</div>
         </div>
         <div class="metric">
-            <div class="metric-value">0.00%</div>
+            <div class="metric-value">{summary['average_ctr_28d']:.2f}%</div>
             <div class="metric-label">Average CTR</div>
         </div>
         <div class="metric">
-            <div class="metric-value">0</div>
+            <div class="metric-value">{summary['total_queries']}</div>
             <div class="metric-label">Total Queries</div>
         </div>
     </div>
