@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:docs.anthropic.com)",
+      "WebSearch",
+      "Bash(./setTitle.sh:*)",
+      "Bash(mkdir:*)",
+      "Bash(trash:*)",
+      "Bash(node:*)",
+      "Bash(cat:*)",
+      "Bash(pnpx purgecss:*)",
+      "Bash(awk:*)",
+      "Bash(git remote remove:*)",
+      "Bash(git remote add:*)",
+      "Bash(git push:*)",
+      "Read(//home/rob/Documents/work/pensanta/websites/www.pensanta.com/**)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
