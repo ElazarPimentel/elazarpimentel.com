@@ -149,6 +149,39 @@
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
+    <!-- Intro Animation Overlay -->
+    <div class="intro-overlay" id="intro-overlay" aria-hidden="true">
+        <span class="intro-text" id="intro-text-en">We build <span class="highlight">websites that work</span></span>
+        <span class="intro-text" id="intro-text-es">Creamos <span class="highlight">sitios que funcionan</span></span>
+    </div>
+
+    <script>
+    (function() {
+        // Skip if already seen this session or user prefers reduced motion
+        if (sessionStorage.getItem('introSeen') ||
+            window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+            document.getElementById('intro-overlay').classList.add('hidden');
+            return;
+        }
+
+        const overlay = document.getElementById('intro-overlay');
+        const textEn = document.getElementById('intro-text-en');
+        const textEs = document.getElementById('intro-text-es');
+
+        // Timeline: show EN → fade EN → show ES → fade all → reveal site
+        setTimeout(() => textEn.classList.add('visible'), 300);           // EN appears
+        setTimeout(() => textEn.classList.add('fade-out'), 2000);         // EN fades
+        setTimeout(() => textEn.classList.remove('visible'), 2500);       // EN hidden
+        setTimeout(() => textEs.classList.add('visible'), 2600);          // ES appears
+        setTimeout(() => textEs.classList.add('fade-out'), 4300);         // ES fades
+        setTimeout(() => {
+            overlay.classList.add('fade-out');                            // Overlay slides up
+            sessionStorage.setItem('introSeen', 'true');
+        }, 4800);
+        setTimeout(() => overlay.classList.add('hidden'), 5600);          // Cleanup
+    })();
+    </script>
+
     <!-- Skip to main content for accessibility -->
     <a href="#main-content" class="skip-link">Ir al contenido principal</a>
 
